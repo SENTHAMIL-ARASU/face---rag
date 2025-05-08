@@ -1,0 +1,607 @@
+2025-05-08 09:42:49,561 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:42:49,564 - openai._base_client - INFO - Retrying request to /embeddings in 0.486568 seconds
+2025-05-08 09:42:50,785 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:42:50,785 - openai._base_client - INFO - Retrying request to /embeddings in 0.801776 seconds
+2025-05-08 09:42:52,121 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:42:52,126 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:43:28,272 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:43:28,273 - openai._base_client - INFO - Retrying request to /embeddings in 0.380018 seconds
+2025-05-08 09:43:29,081 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:43:29,081 - openai._base_client - INFO - Retrying request to /embeddings in 0.925478 seconds
+2025-05-08 09:43:30,597 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:43:30,597 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:46:18,763 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:46:18,763 - openai._base_client - INFO - Retrying request to /embeddings in 0.473180 seconds
+2025-05-08 09:46:20,198 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:46:20,198 - openai._base_client - INFO - Retrying request to /embeddings in 0.951813 seconds
+2025-05-08 09:46:21,431 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:46:21,432 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:49:25,800 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:49:27,897 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:49:27,897 - openai._base_client - INFO - Retrying request to /embeddings in 0.393883 seconds
+2025-05-08 09:49:29,335 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:49:29,335 - openai._base_client - INFO - Retrying request to /embeddings in 0.924759 seconds
+2025-05-08 09:49:30,972 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:49:30,976 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:52:41,239 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:52:42,249 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:52:42,249 - openai._base_client - INFO - Retrying request to /embeddings in 0.468660 seconds
+2025-05-08 09:52:43,078 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:52:43,078 - openai._base_client - INFO - Retrying request to /embeddings in 0.833700 seconds
+2025-05-08 09:52:43,903 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:52:44,413 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:52:44,413 - openai._base_client - INFO - Retrying request to /embeddings in 0.417419 seconds
+2025-05-08 09:52:44,453 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:52:44,469 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:52:45,630 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:52:45,630 - openai._base_client - INFO - Retrying request to /embeddings in 0.856539 seconds
+2025-05-08 09:52:47,061 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:52:47,061 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:52:53,104 - __main__ - WARNING - Vector store is not initialized
+2025-05-08 09:53:03,503 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:53:04,482 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:53:04,482 - openai._base_client - INFO - Retrying request to /embeddings in 0.419623 seconds
+2025-05-08 09:53:05,246 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:53:05,251 - openai._base_client - INFO - Retrying request to /embeddings in 0.935634 seconds
+2025-05-08 09:53:06,530 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:53:06,530 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:53:46,221 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:53:46,771 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:53:46,771 - openai._base_client - INFO - Retrying request to /embeddings in 0.418523 seconds
+2025-05-08 09:53:47,481 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:53:47,481 - openai._base_client - INFO - Retrying request to /embeddings in 0.780314 seconds
+2025-05-08 09:53:48,817 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:53:48,819 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:53:48,995 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:53:49,538 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:53:49,540 - openai._base_client - INFO - Retrying request to /embeddings in 0.470569 seconds
+2025-05-08 09:53:50,353 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:53:50,353 - openai._base_client - INFO - Retrying request to /embeddings in 0.931004 seconds
+2025-05-08 09:53:51,686 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:53:51,690 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:53:54,868 - __main__ - WARNING - Vector store is not initialized
+2025-05-08 09:54:14,910 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:54:16,980 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:54:16,980 - openai._base_client - INFO - Retrying request to /embeddings in 0.484419 seconds
+2025-05-08 09:54:17,895 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:54:17,906 - openai._base_client - INFO - Retrying request to /embeddings in 0.912864 seconds
+2025-05-08 09:54:19,237 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:54:19,237 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:56:49,724 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:56:49,724 - __main__ - INFO - Loaded face record: Name: Poorvika, Registered at: 2025-05-07 10:03:12, ID: 1
+2025-05-08 09:56:49,724 - __main__ - INFO - Loaded face record: Name: p, Registered at: 2025-05-07 10:09:15, ID: 2
+2025-05-08 09:56:49,724 - __main__ - INFO - Loaded face record: Name: Sleepy Poorvika, Registered at: 2025-05-07 13:49:11, ID: 3
+2025-05-08 09:56:49,724 - __main__ - INFO - Loaded face record: Name: d, Registered at: 2025-05-07 13:59:14, ID: 4
+2025-05-08 09:56:49,726 - __main__ - INFO - Loaded face record: Name: pichi, Registered at: 2025-05-07 17:18:44, ID: 5
+2025-05-08 09:56:49,726 - __main__ - INFO - Loaded face record: Name: trail, Registered at: 2025-05-08 04:23:12, ID: 6
+2025-05-08 09:56:50,263 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:56:50,263 - openai._base_client - INFO - Retrying request to /embeddings in 0.456714 seconds
+2025-05-08 09:56:51,198 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:56:51,198 - openai._base_client - INFO - Retrying request to /embeddings in 0.783997 seconds
+2025-05-08 09:56:51,629 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:56:51,629 - __main__ - INFO - Loaded face record: Name: Poorvika, Registered at: 2025-05-07 10:03:12, ID: 1
+2025-05-08 09:56:51,629 - __main__ - INFO - Loaded face record: Name: p, Registered at: 2025-05-07 10:09:15, ID: 2
+2025-05-08 09:56:51,629 - __main__ - INFO - Loaded face record: Name: Sleepy Poorvika, Registered at: 2025-05-07 13:49:11, ID: 3
+2025-05-08 09:56:51,629 - __main__ - INFO - Loaded face record: Name: d, Registered at: 2025-05-07 13:59:14, ID: 4
+2025-05-08 09:56:51,629 - __main__ - INFO - Loaded face record: Name: pichi, Registered at: 2025-05-07 17:18:44, ID: 5
+2025-05-08 09:56:51,629 - __main__ - INFO - Loaded face record: Name: trail, Registered at: 2025-05-08 04:23:12, ID: 6
+2025-05-08 09:56:52,219 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:56:52,219 - openai._base_client - INFO - Retrying request to /embeddings in 0.375718 seconds
+2025-05-08 09:56:52,268 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:56:52,270 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:56:52,937 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:56:52,937 - openai._base_client - INFO - Retrying request to /embeddings in 0.866631 seconds
+2025-05-08 09:56:54,685 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:56:54,688 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:57:04,959 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:57:04,959 - __main__ - INFO - Loaded face record: Name: Poorvika, Registered at: 2025-05-07 10:03:12, ID: 1
+2025-05-08 09:57:04,959 - __main__ - INFO - Loaded face record: Name: p, Registered at: 2025-05-07 10:09:15, ID: 2
+2025-05-08 09:57:04,959 - __main__ - INFO - Loaded face record: Name: Sleepy Poorvika, Registered at: 2025-05-07 13:49:11, ID: 3
+2025-05-08 09:57:04,959 - __main__ - INFO - Loaded face record: Name: d, Registered at: 2025-05-07 13:59:14, ID: 4
+2025-05-08 09:57:04,959 - __main__ - INFO - Loaded face record: Name: pichi, Registered at: 2025-05-07 17:18:44, ID: 5
+2025-05-08 09:57:04,959 - __main__ - INFO - Loaded face record: Name: trail, Registered at: 2025-05-08 04:23:12, ID: 6
+2025-05-08 09:57:05,405 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:57:05,407 - openai._base_client - INFO - Retrying request to /embeddings in 0.452632 seconds
+2025-05-08 09:57:06,372 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:57:06,372 - openai._base_client - INFO - Retrying request to /embeddings in 0.764820 seconds
+2025-05-08 09:57:07,455 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:57:07,455 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:57:07,806 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:57:07,808 - __main__ - INFO - Loaded face record: Name: Poorvika, Registered at: 2025-05-07 10:03:12, ID: 1
+2025-05-08 09:57:07,808 - __main__ - INFO - Loaded face record: Name: p, Registered at: 2025-05-07 10:09:15, ID: 2
+2025-05-08 09:57:07,808 - __main__ - INFO - Loaded face record: Name: Sleepy Poorvika, Registered at: 2025-05-07 13:49:11, ID: 3
+2025-05-08 09:57:07,808 - __main__ - INFO - Loaded face record: Name: d, Registered at: 2025-05-07 13:59:14, ID: 4
+2025-05-08 09:57:07,808 - __main__ - INFO - Loaded face record: Name: pichi, Registered at: 2025-05-07 17:18:44, ID: 5
+2025-05-08 09:57:07,808 - __main__ - INFO - Loaded face record: Name: trail, Registered at: 2025-05-08 04:23:12, ID: 6
+2025-05-08 09:57:08,287 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:57:08,287 - openai._base_client - INFO - Retrying request to /embeddings in 0.406258 seconds
+2025-05-08 09:57:09,004 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:57:09,004 - openai._base_client - INFO - Retrying request to /embeddings in 0.881757 seconds
+2025-05-08 09:57:10,330 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:57:10,330 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:57:20,913 - __main__ - WARNING - Vector store is not initialized
+2025-05-08 09:58:42,610 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:58:43,122 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:58:43,122 - openai._base_client - INFO - Retrying request to /embeddings in 0.482815 seconds
+2025-05-08 09:58:43,929 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:58:43,944 - openai._base_client - INFO - Retrying request to /embeddings in 0.888122 seconds
+2025-05-08 09:58:45,166 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:58:45,166 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 09:58:46,571 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 09:58:47,111 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:58:47,111 - openai._base_client - INFO - Retrying request to /embeddings in 0.433299 seconds
+2025-05-08 09:58:47,924 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:58:47,924 - openai._base_client - INFO - Retrying request to /embeddings in 0.872475 seconds
+2025-05-08 09:58:49,166 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 09:58:49,166 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:00:15,147 - __main__ - WARNING - Vector store is not initialized
+2025-05-08 10:03:19,194 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:03:19,194 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:03:19,198 - __main__ - INFO - Found 6 faces in database
+2025-05-08 10:03:19,198 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: p
+2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: d
+2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:03:20,735 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:03:20,736 - openai._base_client - INFO - Retrying request to /embeddings in 0.425772 seconds
+2025-05-08 10:03:21,599 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:03:21,599 - openai._base_client - INFO - Retrying request to /embeddings in 0.999614 seconds
+2025-05-08 10:03:23,083 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:03:23,094 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:13:39,449 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:13:39,449 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:13:39,449 - __main__ - INFO - Found 6 faces in database
+2025-05-08 10:13:39,449 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:13:39,449 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:13:39,449 - __main__ - INFO - Added document for face: p
+2025-05-08 10:13:39,449 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:13:39,449 - __main__ - INFO - Added document for face: d
+2025-05-08 10:13:39,460 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:13:39,460 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:13:39,460 - __main__ - INFO - Attempting to create embeddings for 6 documents
+2025-05-08 10:13:40,367 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:13:40,369 - openai._base_client - INFO - Retrying request to /embeddings in 0.470485 seconds
+2025-05-08 10:13:41,589 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:13:41,602 - openai._base_client - INFO - Retrying request to /embeddings in 0.982592 seconds
+2025-05-08 10:13:43,540 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:13:43,545 - openai._base_client - INFO - Retrying request to /embeddings in 1.677925 seconds
+2025-05-08 10:13:45,892 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:13:45,897 - openai._base_client - INFO - Retrying request to /embeddings in 3.661918 seconds
+2025-05-08 10:13:49,879 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:13:49,879 - openai._base_client - INFO - Retrying request to /embeddings in 7.493379 seconds
+2025-05-08 10:13:58,081 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:13:58,085 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:13:58,085 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:13:58,085 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:14:19,092 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:14:20,616 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:14:20,633 - __main__ - INFO - Query: who was the last person to register ?, Answer: The last person to register was trail on 2025-05-08 at 04:23:12.
+2025-05-08 10:14:53,707 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:14:54,571 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:14:54,576 - __main__ - INFO - Query: how many people have been registered ?, Answer: Three people have been registered.
+2025-05-08 10:15:22,206 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:15:22,206 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:15:22,206 - __main__ - INFO - Found 6 faces in database
+2025-05-08 10:15:22,208 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:15:22,208 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:15:22,208 - __main__ - INFO - Added document for face: p
+2025-05-08 10:15:22,208 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:15:22,208 - __main__ - INFO - Added document for face: d
+2025-05-08 10:15:22,210 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:15:22,210 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:15:22,210 - __main__ - INFO - Attempting to create embeddings for 6 documents
+2025-05-08 10:15:22,759 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:15:22,775 - openai._base_client - INFO - Retrying request to /embeddings in 0.446392 seconds
+2025-05-08 10:15:23,741 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:15:23,746 - openai._base_client - INFO - Retrying request to /embeddings in 0.831000 seconds
+2025-05-08 10:15:25,122 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:15:25,124 - openai._base_client - INFO - Retrying request to /embeddings in 1.734791 seconds
+2025-05-08 10:15:27,168 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:15:27,172 - openai._base_client - INFO - Retrying request to /embeddings in 3.566378 seconds
+2025-05-08 10:15:31,265 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:15:31,265 - openai._base_client - INFO - Retrying request to /embeddings in 7.036293 seconds
+2025-05-08 10:15:38,634 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:15:38,639 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:15:38,639 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:15:38,640 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:15:47,837 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:15:49,702 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:15:49,724 - __main__ - INFO - Query: when did p register ?, Answer: p registered on May 7, 2025, at 10:09:15.
+2025-05-08 10:16:02,559 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:16:02,559 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:16:02,561 - __main__ - INFO - Found 6 faces in database
+2025-05-08 10:16:02,561 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:16:02,561 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:16:02,562 - __main__ - INFO - Added document for face: p
+2025-05-08 10:16:02,562 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:16:02,562 - __main__ - INFO - Added document for face: d
+2025-05-08 10:16:02,562 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:16:02,562 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:16:02,562 - __main__ - INFO - Attempting to create embeddings for 6 documents
+2025-05-08 10:16:03,314 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:16:03,314 - openai._base_client - INFO - Retrying request to /embeddings in 0.380257 seconds
+2025-05-08 10:16:04,031 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:16:04,039 - openai._base_client - INFO - Retrying request to /embeddings in 0.981484 seconds
+2025-05-08 10:16:05,573 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:16:05,573 - openai._base_client - INFO - Retrying request to /embeddings in 1.940578 seconds
+2025-05-08 10:16:07,822 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:16:07,827 - openai._base_client - INFO - Retrying request to /embeddings in 3.328720 seconds
+2025-05-08 10:16:11,919 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:16:11,921 - openai._base_client - INFO - Retrying request to /embeddings in 6.933605 seconds
+2025-05-08 10:16:19,341 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:16:19,349 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:16:19,349 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:16:19,349 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:16:25,190 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:16:27,170 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:16:27,206 - __main__ - INFO - Query: when did p register ?, Answer: The information about a person named "p" is not available in the database.
+2025-05-08 10:21:18,995 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:21:18,995 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:21:18,995 - __main__ - INFO - Found 6 faces in database
+2025-05-08 10:21:18,995 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: p
+2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: d
+2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:21:18,995 - __main__ - INFO - Attempting to create embeddings for 6 documents
+2025-05-08 10:21:19,638 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:21:19,640 - openai._base_client - INFO - Retrying request to /embeddings in 0.442235 seconds
+2025-05-08 10:21:20,332 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:21:20,342 - openai._base_client - INFO - Retrying request to /embeddings in 0.875320 seconds
+2025-05-08 10:21:21,581 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:21:21,581 - openai._base_client - INFO - Retrying request to /embeddings in 1.883844 seconds
+2025-05-08 10:21:23,831 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:21:23,831 - openai._base_client - INFO - Retrying request to /embeddings in 3.486516 seconds
+2025-05-08 10:21:27,581 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:21:27,581 - openai._base_client - INFO - Retrying request to /embeddings in 6.860908 seconds
+2025-05-08 10:21:34,791 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:21:34,793 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:21:34,793 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:21:34,793 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:24:12,126 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:24:12,126 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:24:12,128 - __main__ - INFO - Found 6 faces in database
+2025-05-08 10:24:12,128 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: p
+2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: d
+2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:24:12,128 - __main__ - INFO - Attempting to create embeddings for 6 documents
+2025-05-08 10:24:12,694 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:24:12,694 - openai._base_client - INFO - Retrying request to /embeddings in 0.421486 seconds
+2025-05-08 10:24:13,504 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:24:13,504 - openai._base_client - INFO - Retrying request to /embeddings in 0.862515 seconds
+2025-05-08 10:24:14,736 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:24:14,736 - openai._base_client - INFO - Retrying request to /embeddings in 1.818479 seconds
+2025-05-08 10:24:16,923 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:24:16,923 - openai._base_client - INFO - Retrying request to /embeddings in 3.859666 seconds
+2025-05-08 10:24:21,085 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:24:21,085 - openai._base_client - INFO - Retrying request to /embeddings in 7.809559 seconds
+2025-05-08 10:24:29,287 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:24:29,289 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:24:29,289 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:24:29,289 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:24:29,291 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:24:30,417 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:24:30,435 - __main__ - INFO - Query: when did p register ?, Answer: p registered on May 7, 2025, at 10:09:15.
+2025-05-08 10:24:57,716 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:24:58,783 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:24:58,800 - __main__ - INFO - Query: how many people have been registered till now ?, Answer: Three people have been registered till now.
+2025-05-08 10:25:17,200 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:25:18,336 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:25:18,336 - __main__ - INFO - Query: but there are 6 people in database right ?, Answer: The information provided only lists three registered faces, so it appears that there are not six people in the database.
+2025-05-08 10:25:42,346 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:25:43,044 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:25:43,044 - __main__ - INFO - Query: How many people are currently registered?, Answer: There are currently three people registered.
+2025-05-08 10:32:06,012 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:32:06,012 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:32:06,012 - __main__ - INFO - Found 6 faces in database
+2025-05-08 10:32:06,012 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: p
+2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: d
+2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:32:06,012 - __main__ - INFO - Attempting to create embeddings for 6 documents
+2025-05-08 10:32:06,714 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:32:06,714 - openai._base_client - INFO - Retrying request to /embeddings in 0.486366 seconds
+2025-05-08 10:32:07,531 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:32:07,534 - openai._base_client - INFO - Retrying request to /embeddings in 0.817963 seconds
+2025-05-08 10:32:09,366 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:32:09,379 - openai._base_client - INFO - Retrying request to /embeddings in 1.667045 seconds
+2025-05-08 10:32:11,563 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:32:11,565 - openai._base_client - INFO - Retrying request to /embeddings in 3.632027 seconds
+2025-05-08 10:32:16,236 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:32:16,240 - openai._base_client - INFO - Retrying request to /embeddings in 7.478607 seconds
+2025-05-08 10:32:24,939 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:32:24,945 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:32:24,945 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:32:24,945 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:32:24,945 - __main__ - INFO - Used simple retrieval, found 6 documents
+2025-05-08 10:32:25,972 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:32:25,991 - __main__ - INFO - Query: How many people are currently registered?, Answer: Currently, there are 6 people registered.
+2025-05-08 10:32:58,813 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:32:58,813 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:32:58,813 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:32:58,813 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: p
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: d
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: trail 2
+2025-05-08 10:32:58,813 - __main__ - INFO - Attempting to create embeddings for 7 documents
+2025-05-08 10:32:59,673 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:32:59,673 - openai._base_client - INFO - Retrying request to /embeddings in 0.465461 seconds
+2025-05-08 10:33:00,467 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:33:00,467 - openai._base_client - INFO - Retrying request to /embeddings in 0.838600 seconds
+2025-05-08 10:33:02,023 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:33:02,026 - openai._base_client - INFO - Retrying request to /embeddings in 1.865481 seconds
+2025-05-08 10:33:04,160 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:33:04,164 - openai._base_client - INFO - Retrying request to /embeddings in 3.041953 seconds
+2025-05-08 10:33:07,547 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:33:07,547 - openai._base_client - INFO - Retrying request to /embeddings in 7.762787 seconds
+2025-05-08 10:33:15,734 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:33:15,736 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:33:15,736 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:33:15,736 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:33:15,736 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:33:17,066 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:33:17,088 - __main__ - INFO - Query: who was the last person to register ?, Answer: The last person to register was d, with an ID of 4, registered at 2025-05-07 13:59:14.
+2025-05-08 10:33:36,510 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:33:36,510 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:33:36,510 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:33:36,510 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: p
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: d
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: trail 2
+2025-05-08 10:33:36,510 - __main__ - INFO - Attempting to create embeddings for 7 documents
+2025-05-08 10:33:37,237 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:33:37,237 - openai._base_client - INFO - Retrying request to /embeddings in 0.488745 seconds
+2025-05-08 10:33:38,055 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:33:38,058 - openai._base_client - INFO - Retrying request to /embeddings in 0.780965 seconds
+2025-05-08 10:33:39,184 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:33:39,184 - openai._base_client - INFO - Retrying request to /embeddings in 1.826122 seconds
+2025-05-08 10:33:41,331 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:33:41,335 - openai._base_client - INFO - Retrying request to /embeddings in 3.061738 seconds
+2025-05-08 10:33:44,783 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:33:44,783 - openai._base_client - INFO - Retrying request to /embeddings in 6.895365 seconds
+2025-05-08 10:33:52,085 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:33:52,089 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:33:52,089 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:33:52,089 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:33:52,089 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:33:53,742 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:33:53,761 - __main__ - INFO - Query: who was the last person to register ?, Answer: The last person to register was d, who registered at 2025-05-07 13:59:14.
+2025-05-08 10:34:05,901 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:34:07,447 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:34:07,450 - __main__ - INFO - Query: when did trail 2 register?, Answer: Trail 2 registered on May 8, 2025, at 05:02:48.
+2025-05-08 10:37:49,774 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:37:49,774 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:37:49,774 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:37:49,774 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: p
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: d
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: trail 2
+2025-05-08 10:37:49,774 - __main__ - INFO - Attempting to create embeddings for 7 documents
+2025-05-08 10:37:51,086 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:37:51,086 - openai._base_client - INFO - Retrying request to /embeddings in 0.442365 seconds
+2025-05-08 10:37:51,907 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:37:51,913 - openai._base_client - INFO - Retrying request to /embeddings in 0.844000 seconds
+2025-05-08 10:37:53,638 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:37:53,638 - openai._base_client - INFO - Retrying request to /embeddings in 1.504696 seconds
+2025-05-08 10:37:55,492 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:37:55,492 - openai._base_client - INFO - Retrying request to /embeddings in 3.179430 seconds
+2025-05-08 10:37:59,079 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:37:59,081 - openai._base_client - INFO - Retrying request to /embeddings in 7.248716 seconds
+2025-05-08 10:38:06,860 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:38:06,864 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:38:06,864 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:38:06,864 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:38:06,864 - __main__ - INFO - Using simple storage mode for 7 faces due to API limitations.
+2025-05-08 10:38:06,866 - __main__ - INFO - Used simple retrieval, found 7 documents
+2025-05-08 10:38:08,179 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:38:08,220 - __main__ - INFO - Query: how many people are currently registered?, Answer: There are currently 7 people registered.
+2025-05-08 10:38:56,228 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:38:57,450 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:38:57,450 - __main__ - INFO - Query: who was the last person to register ?, Answer: The last person to register was trail, who registered on 2025-05-08 at 04:23:12.
+2025-05-08 10:39:08,636 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:39:08,636 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:39:08,636 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:39:08,636 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: p
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: d
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: trail 2
+2025-05-08 10:39:08,636 - __main__ - INFO - Attempting to create embeddings for 7 documents
+2025-05-08 10:39:09,224 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:39:09,224 - openai._base_client - INFO - Retrying request to /embeddings in 0.383221 seconds
+2025-05-08 10:39:10,447 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:39:10,447 - openai._base_client - INFO - Retrying request to /embeddings in 0.787558 seconds
+2025-05-08 10:39:11,566 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:39:11,581 - openai._base_client - INFO - Retrying request to /embeddings in 1.831026 seconds
+2025-05-08 10:39:13,732 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:39:13,732 - openai._base_client - INFO - Retrying request to /embeddings in 3.945146 seconds
+2025-05-08 10:39:18,845 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:39:18,845 - openai._base_client - INFO - Retrying request to /embeddings in 6.373697 seconds
+2025-05-08 10:39:25,814 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:39:25,816 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:39:25,816 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:39:25,816 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:39:25,816 - __main__ - INFO - Using simple storage mode for 7 faces due to API limitations.
+2025-05-08 10:39:25,816 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:39:27,452 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:39:27,471 - __main__ - INFO - Query: who was the last person to register?, Answer: The last person to register was "trail 2," who registered on 2025-05-08 at 05:02:48.
+2025-05-08 10:39:56,487 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:39:56,487 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:39:56,501 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:39:56,501 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: p
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: d
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: trail 2
+2025-05-08 10:39:56,501 - __main__ - INFO - Attempting to create embeddings for 7 documents
+2025-05-08 10:39:57,142 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:39:57,150 - openai._base_client - INFO - Retrying request to /embeddings in 0.385279 seconds
+2025-05-08 10:39:57,851 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:39:57,864 - openai._base_client - INFO - Retrying request to /embeddings in 0.795367 seconds
+2025-05-08 10:39:58,986 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:39:58,992 - openai._base_client - INFO - Retrying request to /embeddings in 1.680766 seconds
+2025-05-08 10:40:01,036 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:40:01,040 - openai._base_client - INFO - Retrying request to /embeddings in 3.391579 seconds
+2025-05-08 10:40:05,037 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:40:05,037 - openai._base_client - INFO - Retrying request to /embeddings in 7.658200 seconds
+2025-05-08 10:40:13,006 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:40:13,006 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:40:13,010 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:40:13,010 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:40:13,010 - __main__ - INFO - Using simple storage mode for 7 faces due to API limitations.
+2025-05-08 10:40:13,012 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:40:14,416 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:40:14,439 - __main__ - INFO - Query: who was the last person to register?, Answer: The last person to register was "trail" on 2025-05-08 at 04:23:12.
+2025-05-08 10:40:37,954 - __main__ - INFO - Used simple retrieval, found 3 documents
+2025-05-08 10:40:39,019 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:40:39,035 - __main__ - INFO - Query: who was the last person to register?, Answer: The last person to register was pichi, who registered at 2025-05-07 17:18:44.
+2025-05-08 10:46:14,306 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:46:14,306 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:46:14,306 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:46:14,306 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: p
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: d
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: trail 2
+2025-05-08 10:46:14,306 - __main__ - INFO - Attempting to create embeddings for 7 documents
+2025-05-08 10:46:15,009 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:46:15,009 - openai._base_client - INFO - Retrying request to /embeddings in 0.458826 seconds
+2025-05-08 10:46:16,319 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:46:16,319 - openai._base_client - INFO - Retrying request to /embeddings in 0.944157 seconds
+2025-05-08 10:46:17,636 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:46:17,636 - openai._base_client - INFO - Retrying request to /embeddings in 1.777015 seconds
+2025-05-08 10:46:20,156 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:46:20,156 - openai._base_client - INFO - Retrying request to /embeddings in 3.552758 seconds
+2025-05-08 10:46:24,489 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:46:24,506 - openai._base_client - INFO - Retrying request to /embeddings in 6.185104 seconds
+2025-05-08 10:46:31,246 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:46:31,254 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:46:31,254 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:46:31,254 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:46:31,254 - __main__ - WARNING - No vector store available to query
+2025-05-08 10:47:37,633 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 10:47:37,633 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:47:37,633 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:47:37,633 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: p
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: d
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: trail 2
+2025-05-08 10:47:37,638 - __main__ - INFO - Attempting to create embeddings for 7 documents
+2025-05-08 10:47:38,368 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:47:38,368 - openai._base_client - INFO - Retrying request to /embeddings in 0.397176 seconds
+2025-05-08 10:47:39,077 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:47:39,088 - openai._base_client - INFO - Retrying request to /embeddings in 0.751653 seconds
+2025-05-08 10:47:40,210 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:47:40,212 - openai._base_client - INFO - Retrying request to /embeddings in 1.522622 seconds
+2025-05-08 10:47:42,054 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:47:42,054 - openai._base_client - INFO - Retrying request to /embeddings in 3.284136 seconds
+2025-05-08 10:47:45,742 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:47:45,742 - openai._base_client - INFO - Retrying request to /embeddings in 6.760732 seconds
+2025-05-08 10:47:52,905 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:47:52,905 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:47:52,905 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:47:52,912 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:47:52,912 - __main__ - INFO - Using simple storage mode for 7 faces due to API limitations.
+2025-05-08 10:47:52,912 - __main__ - INFO - Used simple retrieval, found 7 documents
+2025-05-08 10:47:52,920 - __main__ - INFO - Selected most recent document: Name: trail 2, Registered at: 2025-05-08 05:02:48, ID: 7
+2025-05-08 10:47:54,037 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:47:54,037 - __main__ - INFO - Query: who was the last person to register?, Answer: The last person to register was associated with the name "trail 2," and they registered on May 8, 2025.
+2025-05-08 10:48:19,062 - __main__ - INFO - Used simple retrieval, found 7 documents
+2025-05-08 10:48:19,768 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:48:19,809 - __main__ - INFO - Query: How many people are currently registered?, Answer: There are currently 7 people registered.
+2025-05-08 10:48:27,495 - __main__ - INFO - Used simple retrieval, found 7 documents
+2025-05-08 10:48:27,496 - __main__ - INFO - Selected most recent document: Name: trail 2, Registered at: 2025-05-08 05:02:48, ID: 7
+2025-05-08 10:48:28,630 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 10:48:28,634 - __main__ - INFO - Query: who was the last person to register?, Answer: The last person to register was associated with the name "trail 2," registered on 2025-05-08.
+2025-05-08 11:21:18,550 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 11:21:18,550 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 11:21:18,550 - __main__ - INFO - Found 2 faces in database
+2025-05-08 11:21:18,550 - __main__ - INFO - Sample face: ID=1, Name=C Poorvika Gowda, Timestamp=2025-05-08 05:48:10
+2025-05-08 11:21:18,550 - __main__ - INFO - Added document for face: C Poorvika Gowda
+2025-05-08 11:21:18,550 - __main__ - INFO - Added document for face: mokshitha
+2025-05-08 11:21:18,551 - __main__ - INFO - Attempting to create embeddings for 2 documents
+2025-05-08 11:21:19,367 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:21:19,367 - openai._base_client - INFO - Retrying request to /embeddings in 0.394667 seconds
+2025-05-08 11:21:20,502 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:21:20,504 - openai._base_client - INFO - Retrying request to /embeddings in 0.921840 seconds
+2025-05-08 11:21:22,142 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:21:22,143 - openai._base_client - INFO - Retrying request to /embeddings in 1.567023 seconds
+2025-05-08 11:21:24,189 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:21:24,190 - openai._base_client - INFO - Retrying request to /embeddings in 3.733066 seconds
+2025-05-08 11:21:28,489 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:21:28,491 - openai._base_client - INFO - Retrying request to /embeddings in 7.354544 seconds
+2025-05-08 11:21:36,580 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:21:36,583 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 11:21:36,583 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 11:21:36,583 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 11:21:36,584 - __main__ - INFO - Using simple storage mode for 2 faces due to API limitations.
+2025-05-08 11:21:36,584 - __main__ - INFO - Used simple retrieval, found 2 documents
+2025-05-08 11:21:37,301 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 11:21:37,323 - __main__ - INFO - Query: how many people have been registered ?, Answer: Two people have been registered.
+2025-05-08 11:22:32,128 - __main__ - INFO - Used simple retrieval, found 2 documents
+2025-05-08 11:22:32,137 - __main__ - INFO - Selected most recent document: Name: mokshitha, Registered at: 2025-05-08 05:49:08, ID: 2
+2025-05-08 11:22:33,209 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 11:22:33,212 - __main__ - INFO - Query: Who was the last person to register ?, Answer: The information about the last person to register is not available in the database.
+2025-05-08 11:22:53,662 - __main__ - INFO - Used simple retrieval, found 2 documents
+2025-05-08 11:22:53,662 - __main__ - INFO - Selected most recent document: Name: mokshitha, Registered at: 2025-05-08 05:49:08, ID: 2
+2025-05-08 11:22:55,228 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-08 11:22:55,231 - __main__ - INFO - Query: Who was the last person registered?, Answer: The last person registered is Mokshitha, with an ID of 2, on May 8, 2025.
+2025-05-08 11:23:40,275 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08 11:23:40,277 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 11:23:40,277 - __main__ - INFO - Found 2 faces in database
+2025-05-08 11:23:40,277 - __main__ - INFO - Sample face: ID=1, Name=C Poorvika Gowda, Timestamp=2025-05-08 05:48:10
+2025-05-08 11:23:40,278 - __main__ - INFO - Added document for face: C Poorvika Gowda
+2025-05-08 11:23:40,278 - __main__ - INFO - Added document for face: mokshitha
+2025-05-08 11:23:40,278 - __main__ - INFO - Attempting to create embeddings for 2 documents
+2025-05-08 11:23:41,002 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:23:41,002 - openai._base_client - INFO - Retrying request to /embeddings in 0.422530 seconds
+2025-05-08 11:23:42,027 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:23:42,029 - openai._base_client - INFO - Retrying request to /embeddings in 0.907985 seconds
+2025-05-08 11:23:43,457 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:23:43,458 - openai._base_client - INFO - Retrying request to /embeddings in 1.788210 seconds
+2025-05-08 11:23:45,607 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:23:45,608 - openai._base_client - INFO - Retrying request to /embeddings in 3.362855 seconds
+2025-05-08 11:23:49,500 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:23:49,501 - openai._base_client - INFO - Retrying request to /embeddings in 7.210905 seconds
+2025-05-08 11:23:57,484 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 11:23:57,487 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 11:23:57,487 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 11:23:57,488 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 11:23:57,488 - __main__ - INFO - Using simple storage mode for 2 faces due to API limitations.

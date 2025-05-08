@@ -1,0 +1,1964 @@
+2025-05-07T10:02:19.974Z info: Database initialized successfully
+2025-05-07T10:02:19.977Z info: Server running on port 5000
+2025-05-07T10:02:19.977Z info: WebSocket servers ready for recognition and chat
+2025-05-07T10:02:40.378Z info: Retrieved 0 registered faces
+2025-05-07T10:02:40.382Z info: Retrieved 0 registered faces
+2025-05-07T10:02:47.111Z info: Retrieved 0 registered faces
+2025-05-07T10:02:47.114Z info: Retrieved 0 registered faces
+2025-05-07T10:03:10.305Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612190304.jpg
+2025-05-07T10:03:12.070Z error: Python stderr: 2025-05-07 15:33:11,574 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612190304.jpg
+2025-05-07 15:33:11,747 - __main__ - INFO - Generating face encoding for Poorvika
+2025-05-07 15:33:12,010 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612190304_verified.jpg
+
+2025-05-07T10:03:12.081Z info: Successfully registered face for Poorvika
+2025-05-07T10:03:12.086Z info: Retrieved 1 registered faces
+2025-05-07T10:03:20.657Z info: New recognition WebSocket connection established
+2025-05-07T10:03:20.663Z info: Started recognition process for client recognition_1746612200657
+2025-05-07T10:03:20.665Z info: Recognition WebSocket connection closed for client recognition_1746612200657
+2025-05-07T10:03:20.665Z info: Terminated recognition process for client recognition_1746612200657
+2025-05-07T10:03:20.668Z info: Recognition process closed with code null
+2025-05-07T10:03:34.480Z info: New recognition WebSocket connection established
+2025-05-07T10:03:34.484Z info: Started recognition process for client recognition_1746612214480
+2025-05-07T10:03:34.485Z info: Recognition WebSocket connection closed for client recognition_1746612214480
+2025-05-07T10:03:34.485Z info: Terminated recognition process for client recognition_1746612214480
+2025-05-07T10:03:34.486Z info: Recognition process closed with code null
+2025-05-07T10:03:43.145Z info: New recognition WebSocket connection established
+2025-05-07T10:03:43.151Z info: Started recognition process for client recognition_1746612223146
+2025-05-07T10:03:43.152Z info: Recognition WebSocket connection closed for client recognition_1746612223146
+2025-05-07T10:03:43.152Z info: Terminated recognition process for client recognition_1746612223146
+2025-05-07T10:03:43.153Z info: Recognition process closed with code null
+2025-05-07T10:04:46.554Z info: Retrieved 1 registered faces
+2025-05-07T10:04:46.556Z info: Retrieved 1 registered faces
+2025-05-07T10:04:58.055Z info: New recognition WebSocket connection established
+2025-05-07T10:04:58.062Z info: Started recognition process for client recognition_1746612298056
+2025-05-07T10:04:58.063Z info: Recognition WebSocket connection closed for client recognition_1746612298056
+2025-05-07T10:04:58.064Z info: Terminated recognition process for client recognition_1746612298056
+2025-05-07T10:04:58.065Z info: Recognition process closed with code null
+2025-05-07T10:05:13.193Z info: Retrieved 1 registered faces
+2025-05-07T10:05:13.196Z info: Retrieved 1 registered faces
+2025-05-07T10:05:16.994Z info: Retrieved 1 registered faces
+2025-05-07T10:05:16.997Z info: Retrieved 1 registered faces
+2025-05-07T10:08:27.335Z info: Database initialized successfully
+2025-05-07T10:08:27.339Z info: Server running on port 5000
+2025-05-07T10:08:27.339Z info: WebSocket servers ready for recognition and chat
+2025-05-07T10:08:39.889Z info: Retrieved 1 registered faces
+2025-05-07T10:08:39.893Z info: Retrieved 1 registered faces
+2025-05-07T10:08:51.327Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612531325.jpg
+2025-05-07T10:08:52.793Z error: Python stderr: 2025-05-07 15:38:52,560 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612531325.jpg
+2025-05-07 15:38:52,736 - __main__ - WARNING - No faces detected in C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612531325.jpg
+
+2025-05-07T10:08:52.794Z warn: Face detection error: No faces detected in the image. Please try again.
+2025-05-07T10:09:13.759Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612553757.jpg
+2025-05-07T10:09:15.494Z error: Python stderr: 2025-05-07 15:39:14,978 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612553757.jpg
+2025-05-07 15:39:15,155 - __main__ - INFO - Generating face encoding for p
+2025-05-07 15:39:15,441 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612553757_verified.jpg
+
+2025-05-07T10:09:15.508Z info: Successfully registered face for p
+2025-05-07T10:09:15.512Z info: Retrieved 2 registered faces
+2025-05-07T10:09:22.539Z info: New recognition WebSocket connection established
+2025-05-07T10:09:22.546Z info: Started recognition process for client recognition_1746612562539
+2025-05-07T10:09:22.548Z info: Recognition WebSocket connection closed for client recognition_1746612562539
+2025-05-07T10:09:22.549Z info: Terminated recognition process for client recognition_1746612562539
+2025-05-07T10:09:22.550Z info: Recognition process closed with code null
+2025-05-07T10:09:34.666Z info: Retrieved 2 registered faces
+2025-05-07T10:09:34.668Z info: Retrieved 2 registered faces
+2025-05-07T10:10:03.503Z info: Database initialized successfully
+2025-05-07T10:10:03.506Z info: Server running on port 5000
+2025-05-07T10:10:03.506Z info: WebSocket server is ready for face recognition
+2025-05-07T10:10:12.202Z info: Retrieved 2 registered faces
+2025-05-07T10:10:12.206Z info: Retrieved 2 registered faces
+2025-05-07T10:10:18.590Z info: New WebSocket connection established
+2025-05-07T10:10:18.599Z info: Started recognition process for client 1746612618591
+2025-05-07T10:10:43.631Z info: New WebSocket connection established
+2025-05-07T10:10:43.634Z info: Started recognition process for client 1746612643631
+2025-05-07T10:10:43.643Z info: WebSocket connection closed for client 1746612643631
+2025-05-07T10:10:43.643Z info: Terminated recognition process for client 1746612643631
+2025-05-07T10:10:43.645Z info: Recognition process closed with code null
+2025-05-07T10:10:45.408Z info: WebSocket connection closed for client 1746612618591
+2025-05-07T10:10:45.408Z info: Terminated recognition process for client 1746612618591
+2025-05-07T10:10:45.411Z info: Recognition process closed with code null
+2025-05-07T10:10:45.440Z info: Retrieved 2 registered faces
+2025-05-07T10:10:45.442Z info: Retrieved 2 registered faces
+2025-05-07T10:10:46.827Z info: New WebSocket connection established
+2025-05-07T10:10:46.832Z info: Started recognition process for client 1746612646827
+2025-05-07T10:10:46.833Z info: WebSocket connection closed for client 1746612646827
+2025-05-07T10:10:46.833Z info: Terminated recognition process for client 1746612646827
+2025-05-07T10:10:46.834Z info: Recognition process closed with code null
+2025-05-07T10:10:46.842Z info: New WebSocket connection established
+2025-05-07T10:10:46.847Z info: Started recognition process for client 1746612646843
+2025-05-07T10:10:49.529Z info: WebSocket connection closed for client 1746612646843
+2025-05-07T10:10:49.530Z info: Terminated recognition process for client 1746612646843
+2025-05-07T10:10:49.533Z info: Recognition process closed with code null
+2025-05-07T10:10:55.610Z info: Retrieved 2 registered faces
+2025-05-07T10:10:55.613Z info: Retrieved 2 registered faces
+2025-05-07T10:11:44.490Z info: Retrieved 2 registered faces
+2025-05-07T10:11:44.493Z info: Retrieved 2 registered faces
+2025-05-07T10:11:46.638Z info: Retrieved 2 registered faces
+2025-05-07T10:11:46.641Z info: Retrieved 2 registered faces
+2025-05-07T10:12:27.571Z info: Retrieved 2 registered faces
+2025-05-07T10:12:27.574Z info: Retrieved 2 registered faces
+2025-05-07T10:12:34.286Z info: New WebSocket connection established
+2025-05-07T10:12:34.291Z info: Started recognition process for client 1746612754287
+2025-05-07T10:12:34.293Z info: WebSocket connection closed for client 1746612754287
+2025-05-07T10:12:34.294Z info: Terminated recognition process for client 1746612754287
+2025-05-07T10:12:34.295Z info: Recognition process closed with code null
+2025-05-07T10:12:34.305Z info: New WebSocket connection established
+2025-05-07T10:12:34.309Z info: Started recognition process for client 1746612754305
+2025-05-07T10:12:40.986Z info: WebSocket connection closed for client 1746612754305
+2025-05-07T10:12:40.987Z info: Terminated recognition process for client 1746612754305
+2025-05-07T10:12:40.989Z info: Recognition process closed with code null
+2025-05-07T13:48:11.679Z info: Database initialized successfully
+2025-05-07T13:48:11.684Z info: Server running on port 5000
+2025-05-07T13:48:11.684Z info: WebSocket server is ready for face recognition and chat
+2025-05-07T13:48:46.647Z info: Retrieved 2 registered faces
+2025-05-07T13:48:46.652Z info: Retrieved 2 registered faces
+2025-05-07T13:49:04.753Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746625744750.jpg
+2025-05-07T13:49:11.688Z error: Python stderr: 2025-05-07 19:19:09,874 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746625744750.jpg
+2025-05-07 19:19:10,558 - __main__ - INFO - Generating face encoding for Sleepy Poorvika
+2025-05-07 19:19:11,542 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746625744750_verified.jpg
+
+2025-05-07T13:49:11.705Z info: Successfully registered face for Sleepy Poorvika
+2025-05-07T13:49:11.712Z info: Retrieved 3 registered faces
+2025-05-07T13:49:25.567Z info: New WebSocket connection established for face recognition
+2025-05-07T13:49:25.582Z info: Started recognition process for client 1746625765567
+2025-05-07T13:49:36.160Z info: New WebSocket connection established for chat
+2025-05-07T13:49:36.170Z info: Started RAG process for client 1746625776160
+2025-05-07T13:49:36.175Z info: WebSocket connection closed for chat client 1746625776160
+2025-05-07T13:49:36.176Z info: Terminated RAG process for client 1746625776160
+2025-05-07T13:49:36.177Z info: RAG process closed with code null
+2025-05-07T13:49:37.974Z info: WebSocket connection closed for recognition client 1746625765567
+2025-05-07T13:49:37.975Z info: Terminated recognition process for client 1746625765567
+2025-05-07T13:49:37.980Z info: Recognition process closed with code null
+2025-05-07T13:49:38.013Z info: Retrieved 3 registered faces
+2025-05-07T13:49:38.018Z info: Retrieved 3 registered faces
+2025-05-07T13:49:40.043Z info: New WebSocket connection established for chat
+2025-05-07T13:49:40.050Z info: Started RAG process for client 1746625780043
+2025-05-07T13:49:40.052Z info: WebSocket connection closed for chat client 1746625780043
+2025-05-07T13:49:40.053Z info: Terminated RAG process for client 1746625780043
+2025-05-07T13:49:40.055Z info: RAG process closed with code null
+2025-05-07T13:49:40.058Z info: New WebSocket connection established for chat
+2025-05-07T13:49:40.065Z info: Started RAG process for client 1746625780058
+2025-05-07T13:49:54.410Z error: RAG process error: Traceback (most recent call last):
+  File "C:\Users\user\Desktop\GITHUB\.Kato\myenv\Lib\site-packages\langchain\_api\module_import.py", line 69, in import_by_name
+
+2025-05-07T13:49:54.411Z error: RAG process error:     module = importlib.import_module(new_module)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1126, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'langchain_community'
+
+2025-05-07T13:49:54.413Z error: RAG process error: 
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\GITHUB\.Kato\backend\rag_engine.py", line 7, in <module>
+    from langchain.vectorstores import FAISS
+  File "C:\Users\user\Desktop\GITHUB\.Kato\myenv\Lib\site-packages\langchain\vectorstores\__init__.py", line 186, in __getattr__
+
+2025-05-07T13:49:54.414Z error: RAG process error:     return _import_attribute(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\GITHUB\.Kato\myenv\Lib\site-packages\langchain\_api\module_import.py", line 72, in import_by_name
+
+2025-05-07T13:49:54.414Z error: RAG process error:     raise ModuleNotFoundError(
+ModuleNotFoundError: Module langchain_community.vectorstores not found. Please install langchain-community to access this module. You can install it using `pip install -U langchain-community`
+
+2025-05-07T13:49:54.729Z info: RAG process closed with code 1
+2025-05-07T13:58:38.909Z info: Database initialized successfully
+2025-05-07T13:58:38.913Z info: Server running on port 5000
+2025-05-07T13:58:38.913Z info: WebSocket server is ready for face recognition and chat
+2025-05-07T13:58:56.703Z info: Retrieved 3 registered faces
+2025-05-07T13:58:56.712Z info: Retrieved 3 registered faces
+2025-05-07T13:59:12.082Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626352080.jpg
+2025-05-07T13:59:14.037Z error: Python stderr: 2025-05-07 19:29:13,518 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626352080.jpg
+2025-05-07 19:29:13,692 - __main__ - INFO - Generating face encoding for d
+2025-05-07 19:29:13,979 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626352080_verified.jpg
+
+2025-05-07T13:59:14.057Z info: Successfully registered face for d
+2025-05-07T13:59:14.065Z info: Retrieved 4 registered faces
+2025-05-07T13:59:30.861Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626370860.jpg
+2025-05-07T13:59:32.528Z error: Python stderr: 2025-05-07 19:29:32,299 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626370860.jpg
+2025-05-07 19:29:32,478 - __main__ - WARNING - No faces detected in C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626370860.jpg
+
+2025-05-07T13:59:32.529Z warn: Face detection error: No faces detected in the image. Please try again.
+2025-05-07T13:59:44.656Z info: New WebSocket connection established for face recognition
+2025-05-07T13:59:44.671Z info: Started recognition process for client 1746626384656
+2025-05-07T14:00:00.206Z info: New WebSocket connection established for chat
+2025-05-07T14:00:00.219Z info: Started RAG process for client 1746626400206
+2025-05-07T14:00:00.226Z info: WebSocket connection closed for chat client 1746626400206
+2025-05-07T14:00:00.226Z info: Terminated RAG process for client 1746626400206
+2025-05-07T14:00:00.228Z info: RAG process closed with code null
+2025-05-07T14:00:21.811Z info: WebSocket connection closed for recognition client 1746626384656
+2025-05-07T14:00:21.812Z info: Terminated recognition process for client 1746626384656
+2025-05-07T14:00:21.817Z info: Recognition process closed with code null
+2025-05-07T14:00:21.843Z info: Retrieved 4 registered faces
+2025-05-07T14:00:21.849Z info: Retrieved 4 registered faces
+2025-05-07T14:00:23.568Z info: New WebSocket connection established for chat
+2025-05-07T14:00:23.578Z info: Started RAG process for client 1746626423568
+2025-05-07T14:00:23.580Z info: WebSocket connection closed for chat client 1746626423568
+2025-05-07T14:00:23.581Z info: Terminated RAG process for client 1746626423568
+2025-05-07T14:00:23.583Z info: RAG process closed with code null
+2025-05-07T14:00:23.587Z info: New WebSocket connection established for chat
+2025-05-07T14:00:23.595Z info: Started RAG process for client 1746626423587
+2025-05-07T14:00:25.427Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\backend\rag_engine.py:8: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores import FAISS
+
+2025-05-07T14:00:46.191Z info: WebSocket connection closed for chat client 1746626423587
+2025-05-07T14:00:46.193Z info: Terminated RAG process for client 1746626423587
+2025-05-07T14:00:46.200Z info: RAG process closed with code null
+2025-05-07T14:00:48.032Z info: New WebSocket connection established for face recognition
+2025-05-07T14:00:48.040Z info: Started recognition process for client 1746626448032
+2025-05-07T14:01:04.317Z info: Retrieved 4 registered faces
+2025-05-07T14:01:04.320Z info: Retrieved 4 registered faces
+2025-05-07T14:01:08.941Z info: WebSocket connection closed for recognition client 1746626448032
+2025-05-07T14:01:08.942Z info: Terminated recognition process for client 1746626448032
+2025-05-07T14:01:08.945Z info: Recognition process closed with code null
+2025-05-07T14:01:08.974Z info: Retrieved 4 registered faces
+2025-05-07T14:01:08.978Z info: Retrieved 4 registered faces
+2025-05-07T14:01:11.116Z info: Retrieved 4 registered faces
+2025-05-07T14:01:11.121Z info: Retrieved 4 registered faces
+2025-05-07T14:02:42.854Z info: Retrieved 4 registered faces
+2025-05-07T14:02:42.859Z info: Retrieved 4 registered faces
+2025-05-07T14:02:48.245Z info: New WebSocket connection established for face recognition
+2025-05-07T14:02:48.253Z info: Started recognition process for client 1746626568245
+2025-05-07T14:02:56.038Z info: Retrieved 4 registered faces
+2025-05-07T14:02:56.042Z info: Retrieved 4 registered faces
+2025-05-07T14:03:05.827Z info: WebSocket connection closed for recognition client 1746626568245
+2025-05-07T14:03:05.828Z info: Terminated recognition process for client 1746626568245
+2025-05-07T14:03:05.831Z info: Recognition process closed with code null
+2025-05-07T14:03:05.863Z info: Retrieved 4 registered faces
+2025-05-07T14:03:05.866Z info: Retrieved 4 registered faces
+2025-05-07T14:05:29.483Z info: Retrieved 4 registered faces
+2025-05-07T14:07:22.693Z info: Database initialized successfully
+2025-05-07T14:07:22.696Z info: Server running on port 5000
+2025-05-07T14:07:22.696Z info: WebSocket server is ready for face recognition and chat
+2025-05-07T14:07:33.006Z info: Retrieved 4 registered faces
+2025-05-07T14:07:33.013Z info: Retrieved 4 registered faces
+2025-05-07T14:08:20.783Z info: Retrieved 4 registered faces
+2025-05-07T14:08:20.786Z info: Retrieved 4 registered faces
+2025-05-07T14:08:21.110Z info: Retrieved 4 registered faces
+2025-05-07T14:08:47.988Z info: Retrieved 4 registered faces
+2025-05-07T14:08:47.992Z info: Retrieved 4 registered faces
+2025-05-07T14:08:48.334Z info: Retrieved 4 registered faces
+2025-05-07T14:09:06.358Z info: Database initialized successfully
+2025-05-07T14:09:06.361Z info: Server running on port 5000
+2025-05-07T14:09:06.361Z info: WebSocket server is ready for face recognition and chat
+2025-05-07T14:09:16.362Z info: Retrieved 4 registered faces
+2025-05-07T14:09:16.368Z info: Retrieved 4 registered faces
+2025-05-07T14:09:32.657Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626972653.jpg
+2025-05-07T14:09:34.410Z error: Python stderr: 2025-05-07 19:39:34,179 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626972653.jpg
+2025-05-07 19:39:34,342 - __main__ - WARNING - No faces detected in C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626972653.jpg
+
+2025-05-07T14:09:34.411Z warn: Face detection error: No faces detected in the image. Please try again.
+2025-05-07T14:09:42.958Z info: New WebSocket connection established for face recognition
+2025-05-07T14:09:42.974Z info: Started recognition process for client 1746626982958
+2025-05-07T14:10:00.898Z info: New WebSocket connection established for chat
+2025-05-07T14:10:00.908Z info: Started RAG process for client 1746627000898
+2025-05-07T14:10:00.913Z info: WebSocket connection closed for chat client 1746627000898
+2025-05-07T14:10:00.914Z info: Terminated RAG process for client 1746627000898
+2025-05-07T14:10:00.916Z info: RAG process closed with code null
+2025-05-07T14:10:05.512Z info: WebSocket connection closed for recognition client 1746626982958
+2025-05-07T14:10:05.513Z info: Terminated recognition process for client 1746626982958
+2025-05-07T14:10:05.517Z info: Recognition process closed with code null
+2025-05-07T14:10:05.554Z info: Retrieved 4 registered faces
+2025-05-07T14:10:05.559Z info: Retrieved 4 registered faces
+2025-05-07T14:10:07.436Z info: New WebSocket connection established for chat
+2025-05-07T14:10:07.446Z info: Started RAG process for client 1746627007436
+2025-05-07T14:10:07.447Z info: WebSocket connection closed for chat client 1746627007436
+2025-05-07T14:10:07.448Z info: Terminated RAG process for client 1746627007436
+2025-05-07T14:10:07.449Z info: RAG process closed with code null
+2025-05-07T14:10:07.453Z info: New WebSocket connection established for chat
+2025-05-07T14:10:07.461Z info: Started RAG process for client 1746627007453
+2025-05-07T14:10:09.223Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\backend\rag_engine.py:8: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores import FAISS
+
+2025-05-07T14:27:34.854Z info: WebSocket connection closed for chat client 1746627007453
+2025-05-07T14:27:34.858Z info: Terminated RAG process for client 1746627007453
+2025-05-07T14:27:35.112Z info: RAG process closed with code null
+2025-05-07T14:27:48.686Z info: New WebSocket connection established for face recognition
+2025-05-07T14:27:48.696Z info: Started recognition process for client 1746628068686
+2025-05-07T14:28:08.105Z info: New WebSocket connection established for chat
+2025-05-07T14:28:08.112Z info: Started RAG process for client 1746628088105
+2025-05-07T14:28:08.116Z info: WebSocket connection closed for chat client 1746628088105
+2025-05-07T14:28:08.117Z info: Terminated RAG process for client 1746628088105
+2025-05-07T14:28:08.118Z info: RAG process closed with code null
+2025-05-07T14:28:10.698Z info: WebSocket connection closed for recognition client 1746628068686
+2025-05-07T14:28:10.699Z info: Terminated recognition process for client 1746628068686
+2025-05-07T14:28:10.705Z info: Recognition process closed with code null
+2025-05-07T14:28:10.731Z info: Retrieved 4 registered faces
+2025-05-07T14:28:10.735Z info: Retrieved 4 registered faces
+2025-05-07T14:28:14.265Z info: New WebSocket connection established for chat
+2025-05-07T14:28:14.275Z info: Started RAG process for client 1746628094265
+2025-05-07T14:28:14.277Z info: WebSocket connection closed for chat client 1746628094265
+2025-05-07T14:28:14.278Z info: Terminated RAG process for client 1746628094265
+2025-05-07T14:28:14.280Z info: RAG process closed with code null
+2025-05-07T14:28:14.282Z info: New WebSocket connection established for chat
+2025-05-07T14:28:14.291Z info: Started RAG process for client 1746628094282
+2025-05-07T14:28:15.996Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\backend\rag_engine.py:8: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores import FAISS
+
+2025-05-07T14:39:21.285Z info: Database initialized successfully
+2025-05-07T14:39:21.290Z info: Server running on port 5000
+2025-05-07T14:39:21.291Z info: WebSocket server is ready for face recognition and chat
+2025-05-07T14:39:29.332Z info: Retrieved 4 registered faces
+2025-05-07T14:39:29.340Z info: Retrieved 4 registered faces
+2025-05-07T14:39:42.637Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746628782633.jpg
+2025-05-07T14:39:44.389Z error: Python stderr: 2025-05-07 20:09:44,148 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746628782633.jpg
+2025-05-07 20:09:44,323 - __main__ - WARNING - No faces detected in C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746628782633.jpg
+
+2025-05-07T14:39:44.390Z warn: Face detection error: No faces detected in the image. Please try again.
+2025-05-07T14:39:52.322Z info: New WebSocket connection established for face recognition
+2025-05-07T14:39:52.339Z info: Started recognition process for client 1746628792322
+2025-05-07T14:40:08.398Z info: New WebSocket connection established for chat
+2025-05-07T14:40:08.410Z info: Started RAG process for client 1746628808398
+2025-05-07T14:40:08.415Z info: WebSocket connection closed for chat client 1746628808398
+2025-05-07T14:40:08.415Z info: Terminated RAG process for client 1746628808398
+2025-05-07T14:40:08.417Z info: RAG process closed with code null
+2025-05-07T14:40:09.823Z info: WebSocket connection closed for recognition client 1746628792322
+2025-05-07T14:40:09.823Z info: Terminated recognition process for client 1746628792322
+2025-05-07T14:40:09.828Z info: Recognition process closed with code null
+2025-05-07T14:40:09.857Z info: Retrieved 4 registered faces
+2025-05-07T14:40:09.863Z info: Retrieved 4 registered faces
+2025-05-07T14:40:11.956Z info: New WebSocket connection established for chat
+2025-05-07T14:40:11.965Z info: Started RAG process for client 1746628811956
+2025-05-07T14:40:11.969Z info: WebSocket connection closed for chat client 1746628811956
+2025-05-07T14:40:11.970Z info: Terminated RAG process for client 1746628811956
+2025-05-07T14:40:11.972Z info: New WebSocket connection established for chat
+2025-05-07T14:40:11.978Z info: Started RAG process for client 1746628811972
+2025-05-07T14:40:11.980Z info: RAG process closed with code null
+2025-05-07T14:40:13.687Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\backend\rag_engine.py:8: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores import FAISS
+
+2025-05-07T14:49:07.435Z info: WebSocket connection closed for chat client 1746628811972
+2025-05-07T14:49:07.466Z info: Terminated RAG process for client 1746628811972
+2025-05-07T14:49:07.532Z info: RAG process closed with code null
+2025-05-07T16:05:11.962Z info: Retrieved 4 registered faces
+2025-05-07T16:05:11.965Z info: Retrieved 4 registered faces
+2025-05-07T16:11:53.231Z info: Database initialized successfully
+2025-05-07T16:11:53.234Z info: Server running on port 5000
+2025-05-07T16:11:53.234Z info: WebSocket server is ready for face recognition and chat
+2025-05-07T16:12:10.474Z info: Retrieved 4 registered faces
+2025-05-07T16:12:10.479Z info: Retrieved 4 registered faces
+2025-05-07T16:12:26.058Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746634346056.jpg
+2025-05-07T16:12:27.869Z error: Python stderr: 2025-05-07 21:42:27,556 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746634346056.jpg
+2025-05-07 21:42:27,790 - __main__ - WARNING - No faces detected in C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746634346056.jpg
+
+2025-05-07T16:12:27.870Z warn: Face detection error: No faces detected in the image. Please try again.
+2025-05-07T16:12:37.297Z info: New WebSocket connection established for face recognition
+2025-05-07T16:12:37.313Z info: Started recognition process for client 1746634357297
+2025-05-07T16:12:49.874Z info: New WebSocket connection established for chat
+2025-05-07T16:12:49.888Z info: Started RAG process for client 1746634369873
+2025-05-07T16:12:49.892Z info: WebSocket connection closed for chat client 1746634369873
+2025-05-07T16:12:49.893Z info: Terminated RAG process for client 1746634369873
+2025-05-07T16:12:49.894Z info: RAG process closed with code null
+2025-05-07T16:12:51.193Z info: WebSocket connection closed for recognition client 1746634357297
+2025-05-07T16:12:51.194Z info: Terminated recognition process for client 1746634357297
+2025-05-07T16:12:51.199Z info: Recognition process closed with code null
+2025-05-07T16:12:51.231Z info: Retrieved 4 registered faces
+2025-05-07T16:12:51.236Z info: Retrieved 4 registered faces
+2025-05-07T16:12:53.726Z info: New WebSocket connection established for chat
+2025-05-07T16:12:53.735Z info: Started RAG process for client 1746634373726
+2025-05-07T16:12:53.737Z info: WebSocket connection closed for chat client 1746634373726
+2025-05-07T16:12:53.737Z info: Terminated RAG process for client 1746634373726
+2025-05-07T16:12:53.741Z info: New WebSocket connection established for chat
+2025-05-07T16:12:53.749Z info: Started RAG process for client 1746634373741
+2025-05-07T16:12:53.750Z info: RAG process closed with code null
+2025-05-07T16:12:55.401Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\backend\rag_engine.py:8: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores import FAISS
+
+2025-05-07T16:19:54.091Z info: WebSocket connection closed for chat client 1746634373741
+2025-05-07T16:19:54.093Z info: Terminated RAG process for client 1746634373741
+2025-05-07T16:19:54.097Z info: RAG process closed with code null
+2025-05-07T16:19:54.124Z info: Retrieved 4 registered faces
+2025-05-07T16:19:54.127Z info: Retrieved 4 registered faces
+2025-05-07T16:19:56.438Z info: New WebSocket connection established for chat
+2025-05-07T16:19:56.444Z info: Started RAG process for client 1746634796438
+2025-05-07T16:19:57.372Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\backend\rag_engine.py:7: LangChainDeprecationWarning: Importing OpenAIEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import OpenAIEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import OpenAIEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.embeddings import OpenAIEmbeddings
+
+2025-05-07T16:19:57.645Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\myenv\Lib\site-packages\langchain\chat_models\__init__.py:33: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+
+2025-05-07T16:19:57.719Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\myenv\Lib\site-packages\langchain\chat_models\__init__.py:33: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+
+2025-05-07T16:19:57.727Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\backend\rag_engine.py:9: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores import FAISS
+
+2025-05-07T16:19:57.939Z info: RAG process closed with code 1
+2025-05-07T16:20:18.200Z info: Database initialized successfully
+2025-05-07T16:20:18.203Z info: Server running on port 5000
+2025-05-07T16:20:18.204Z info: WebSocket server is ready for face recognition and chat
+2025-05-07T16:20:27.661Z info: Retrieved 4 registered faces
+2025-05-07T16:20:27.666Z info: Retrieved 4 registered faces
+2025-05-07T16:20:33.798Z info: New WebSocket connection established for chat
+2025-05-07T16:20:33.816Z info: Started RAG process for client 1746634833798
+2025-05-07T16:20:33.820Z info: WebSocket connection closed for chat client 1746634833798
+2025-05-07T16:20:33.821Z info: Terminated RAG process for client 1746634833798
+2025-05-07T16:20:33.825Z info: New WebSocket connection established for chat
+2025-05-07T16:20:33.831Z info: Started RAG process for client 1746634833825
+2025-05-07T16:20:33.833Z info: RAG process closed with code null
+2025-05-07T16:20:34.595Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\backend\rag_engine.py:7: LangChainDeprecationWarning: Importing OpenAIEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import OpenAIEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import OpenAIEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.embeddings import OpenAIEmbeddings
+
+2025-05-07T16:20:34.796Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\myenv\Lib\site-packages\langchain\chat_models\__init__.py:33: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+
+2025-05-07T16:20:34.820Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\myenv\Lib\site-packages\langchain\chat_models\__init__.py:33: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+
+2025-05-07T16:20:34.828Z error: RAG process error: C:\Users\user\Desktop\GITHUB\.Kato\backend\rag_engine.py:9: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores import FAISS
+
+2025-05-07T16:20:35.030Z info: RAG process closed with code 1
+2025-05-07T16:31:46.470Z info: WebSocket connection closed for chat client 1746634833825
+2025-05-07T17:18:17.894Z info: Database initialized successfully
+2025-05-07T17:18:17.898Z info: Server running on port 5000
+2025-05-07T17:18:17.899Z info: WebSocket server is ready for face recognition and chat
+2025-05-07T17:18:28.624Z info: Retrieved 4 registered faces
+2025-05-07T17:18:28.630Z info: Retrieved 4 registered faces
+2025-05-07T17:18:41.581Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746638321577.jpg
+2025-05-07T17:18:44.541Z error: Python stderr: 2025-05-07 22:48:43,709 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746638321577.jpg
+2025-05-07 22:48:43,996 - __main__ - INFO - Generating face encoding for pichi
+2025-05-07 22:48:44,427 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746638321577_verified.jpg
+
+2025-05-07T17:18:44.558Z info: Successfully registered face for pichi
+2025-05-07T17:18:44.567Z info: Retrieved 5 registered faces
+2025-05-07T17:18:53.840Z info: New WebSocket connection established
+2025-05-07T17:19:20.607Z info: New WebSocket connection established
+2025-05-07T17:19:20.632Z info: WebSocket connection closed for client 1746638360608
+2025-05-07T17:19:22.428Z info: WebSocket connection closed for client 1746638333841
+2025-05-07T17:19:22.482Z info: Retrieved 5 registered faces
+2025-05-07T17:19:22.487Z info: Retrieved 5 registered faces
+2025-05-07T17:19:23.598Z info: New WebSocket connection established
+2025-05-07T17:19:27.041Z info: WebSocket connection closed for client 1746638363599
+2025-05-07T17:23:45.161Z info: Retrieved 5 registered faces
+2025-05-07T17:23:45.164Z info: Retrieved 5 registered faces
+2025-05-07T17:23:54.661Z info: Shutting down server...
+2025-05-08T04:12:22.281Z info: Database initialized successfully
+2025-05-08T04:12:22.287Z info: Server running on port 5000
+2025-05-08T04:12:22.288Z info: WebSocket server is ready for face recognition and chat
+2025-05-08T04:12:39.956Z info: Retrieved 5 registered faces
+2025-05-08T04:12:39.961Z info: Retrieved 5 registered faces
+2025-05-08T04:12:44.986Z info: New WebSocket connection established: Chat (Client 1746677564986)
+2025-05-08T04:12:45.006Z info: Started chat process for client 1746677564986
+2025-05-08T04:12:45.015Z info: WebSocket chat connection closed for client 1746677564986
+2025-05-08T04:12:45.017Z info: Terminated chat process for client 1746677564986
+2025-05-08T04:12:45.020Z info: New WebSocket connection established: Chat (Client 1746677565020)
+2025-05-08T04:12:45.029Z info: Started chat process for client 1746677565020
+2025-05-08T04:12:45.032Z info: Chat process closed with code null
+2025-05-08T04:12:59.967Z info: WebSocket chat connection closed for client 1746677565020
+2025-05-08T04:12:59.968Z info: Terminated chat process for client 1746677565020
+2025-05-08T04:12:59.969Z info: Retrieved 5 registered faces
+2025-05-08T04:12:59.974Z info: Chat process closed with code null
+2025-05-08T04:12:59.974Z info: Retrieved 5 registered faces
+2025-05-08T04:13:02.694Z info: New WebSocket connection established: Recognition (Client 1746677582694)
+2025-05-08T04:13:02.716Z info: Started recognition process for client 1746677582694
+2025-05-08T04:13:12.957Z info: Retrieved 5 registered faces
+2025-05-08T04:13:12.960Z info: Retrieved 5 registered faces
+2025-05-08T04:13:14.731Z info: WebSocket recognition connection closed for client 1746677582694
+2025-05-08T04:13:14.732Z info: Terminated recognition process for client 1746677582694
+2025-05-08T04:13:14.736Z info: Recognition process closed with code null
+2025-05-08T04:13:14.765Z info: Retrieved 5 registered faces
+2025-05-08T04:13:14.770Z info: Retrieved 5 registered faces
+2025-05-08T04:13:24.132Z info: New WebSocket connection established: Chat (Client 1746677604132)
+2025-05-08T04:13:24.141Z info: Started chat process for client 1746677604132
+2025-05-08T04:16:12.713Z info: WebSocket chat connection closed for client 1746677604132
+2025-05-08T04:16:12.714Z info: Terminated chat process for client 1746677604132
+2025-05-08T04:16:12.718Z info: Chat process closed with code null
+2025-05-08T04:16:12.748Z info: Retrieved 5 registered faces
+2025-05-08T04:16:12.752Z info: Retrieved 5 registered faces
+2025-05-08T04:16:15.143Z info: New WebSocket connection established: Chat (Client 1746677775143)
+2025-05-08T04:16:15.150Z info: Started chat process for client 1746677775143
+2025-05-08T04:16:15.152Z info: WebSocket chat connection closed for client 1746677775143
+2025-05-08T04:16:15.152Z info: Terminated chat process for client 1746677775143
+2025-05-08T04:16:15.153Z info: Chat process closed with code null
+2025-05-08T04:16:15.158Z info: New WebSocket connection established: Chat (Client 1746677775158)
+2025-05-08T04:16:15.163Z info: Started chat process for client 1746677775158
+2025-05-08T04:16:47.495Z info: WebSocket chat connection closed for client 1746677775158
+2025-05-08T04:16:47.496Z info: Terminated chat process for client 1746677775158
+2025-05-08T04:16:47.500Z info: Retrieved 5 registered faces
+2025-05-08T04:16:47.504Z info: Chat process closed with code null
+2025-05-08T04:16:47.507Z info: Retrieved 5 registered faces
+2025-05-08T04:16:59.348Z info: Retrieved 5 registered faces
+2025-05-08T04:16:59.355Z info: Retrieved 5 registered faces
+2025-05-08T04:19:04.645Z info: Database initialized successfully
+2025-05-08T04:19:04.648Z info: Server running on port 5000
+2025-05-08T04:19:04.648Z info: WebSocket server is ready for face recognition and chat
+2025-05-08T04:19:18.098Z info: Retrieved 5 registered faces
+2025-05-08T04:19:18.104Z info: Retrieved 5 registered faces
+2025-05-08T04:19:23.260Z info: New WebSocket connection established: Chat (Client 1746677963260)
+2025-05-08T04:19:23.275Z info: Started chat process for client 1746677963260
+2025-05-08T04:19:23.285Z info: WebSocket chat connection closed for client 1746677963260
+2025-05-08T04:19:23.286Z info: Terminated chat process for client 1746677963260
+2025-05-08T04:19:23.288Z info: New WebSocket connection established: Chat (Client 1746677963288)
+2025-05-08T04:19:23.296Z info: Started chat process for client 1746677963288
+2025-05-08T04:19:23.299Z info: Chat process closed with code null
+2025-05-08T04:19:25.815Z info: Chat process output: 2025-05-08 09:49:25,800 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+2025-05-08T04:19:27.904Z info: Chat process output: 2025-05-08 09:49:27,897 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08T04:19:27.906Z info: Chat process output: 2025-05-08 09:49:27,897 - openai._base_client - INFO - Retrying request to /embeddings in 0.393883 seconds
+2025-05-08T04:19:29.336Z info: Chat process output: 2025-05-08 09:49:29,335 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08T04:19:29.339Z info: Chat process output: 2025-05-08 09:49:29,335 - openai._base_client - INFO - Retrying request to /embeddings in 0.924759 seconds
+2025-05-08T04:19:30.974Z info: Chat process output: 2025-05-08 09:49:30,972 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08T04:19:30.977Z info: Chat process output: 2025-05-08 09:49:30,976 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08T04:22:01.262Z info: WebSocket chat connection closed for client 1746677963288
+2025-05-08T04:22:01.262Z info: Terminated chat process for client 1746677963288
+2025-05-08T04:22:01.263Z info: New WebSocket connection established: Chat (Client 1746678121263)
+2025-05-08T04:22:01.271Z info: Started chat process for client 1746678121263
+2025-05-08T04:22:01.272Z info: WebSocket chat connection closed for client 1746678121263
+2025-05-08T04:22:01.272Z info: Terminated chat process for client 1746678121263
+2025-05-08T04:22:01.273Z info: Chat process closed with code null
+2025-05-08T04:22:01.274Z info: New WebSocket connection established: Chat (Client 1746678121274)
+2025-05-08T04:22:01.278Z info: Started chat process for client 1746678121274
+2025-05-08T04:22:01.279Z info: Chat process closed with code null
+2025-05-08T04:22:05.262Z info: New WebSocket connection established: Chat (Client 1746678125262)
+2025-05-08T04:22:05.268Z info: Started chat process for client 1746678125262
+2025-05-08T04:22:24.961Z info: Database initialized successfully
+2025-05-08T04:22:24.965Z info: Server running on port 5000
+2025-05-08T04:22:24.966Z info: WebSocket server is ready for face recognition and chat
+2025-05-08T04:22:25.134Z info: New WebSocket connection established: Chat (Client 1746678145134)
+2025-05-08T04:22:25.147Z info: Started chat process for client 1746678145134
+2025-05-08T04:22:27.261Z info: New WebSocket connection established: Chat (Client 1746678147261)
+2025-05-08T04:22:27.265Z info: Started chat process for client 1746678147261
+2025-05-08T04:22:35.780Z info: Retrieved 5 registered faces
+2025-05-08T04:22:35.789Z info: Retrieved 5 registered faces
+2025-05-08T04:22:37.350Z info: WebSocket chat connection closed for client 1746678147261
+2025-05-08T04:22:37.351Z info: Terminated chat process for client 1746678147261
+2025-05-08T04:22:37.352Z info: WebSocket chat connection closed for client 1746678145134
+2025-05-08T04:22:37.353Z info: Terminated chat process for client 1746678145134
+2025-05-08T04:22:37.355Z info: Chat process closed with code null
+2025-05-08T04:22:37.356Z info: Chat process closed with code null
+2025-05-08T04:22:38.532Z info: New WebSocket connection established: Chat (Client 1746678158532)
+2025-05-08T04:22:38.537Z info: Started chat process for client 1746678158532
+2025-05-08T04:22:38.540Z info: WebSocket chat connection closed for client 1746678158532
+2025-05-08T04:22:38.541Z info: Terminated chat process for client 1746678158532
+2025-05-08T04:22:38.542Z info: Chat process closed with code null
+2025-05-08T04:22:38.549Z info: New WebSocket connection established: Chat (Client 1746678158549)
+2025-05-08T04:22:38.553Z info: Started chat process for client 1746678158549
+2025-05-08T04:22:41.545Z info: New WebSocket connection established: Chat (Client 1746678161545)
+2025-05-08T04:22:41.554Z info: Started chat process for client 1746678161545
+2025-05-08T04:22:53.104Z info: Received chat query: who was the last person to register?
+2025-05-08T04:22:53.106Z info: Chat process output: {"type":"error","message":"No data available to query. Please register some faces first."}
+2025-05-08T04:22:57.919Z info: WebSocket chat connection closed for client 1746678161545
+2025-05-08T04:22:57.921Z info: Terminated chat process for client 1746678161545
+2025-05-08T04:22:57.925Z info: Retrieved 5 registered faces
+2025-05-08T04:22:57.932Z info: Chat process closed with code null
+2025-05-08T04:22:57.934Z info: Retrieved 5 registered faces
+2025-05-08T04:23:00.926Z info: New WebSocket connection established: Chat (Client 1746678180926)
+2025-05-08T04:23:00.934Z info: Started chat process for client 1746678180926
+2025-05-08T04:23:08.796Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746678188792.jpg
+2025-05-08T04:23:12.733Z error: Python stderr: 2025-05-08 09:53:11,858 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746678188792.jpg
+2025-05-08 09:53:12,343 - __main__ - INFO - Generating face encoding for trail
+2025-05-08 09:53:12,665 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746678188792_verified.jpg
+
+2025-05-08T04:23:12.747Z info: Successfully registered face for trail
+2025-05-08T04:23:12.755Z info: Retrieved 6 registered faces
+2025-05-08T04:23:19.252Z info: New WebSocket connection established: Recognition (Client 1746678199252)
+2025-05-08T04:23:19.266Z info: Started recognition process for client 1746678199252
+2025-05-08T04:23:20.616Z error: Invalid JSON from recognition process: 2025-05-08 09:53:20,615 - __main__ - INFO - Loaded 6 known faces from database
+2025-05-08T04:23:20.617Z error: Invalid JSON from recognition process: 2025-05-08 09:53:20,615 - __main__ - INFO - Face Recognition Server initialized with 6 known faces
+2025-05-08T04:23:20.953Z error: Invalid JSON from recognition process: 2025-05-08 09:53:20,949 - __main__ - INFO - No faces detected in frame
+2025-05-08T04:23:21.946Z error: Invalid JSON from recognition process: 2025-05-08 09:53:21,947 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T04:23:21.947Z error: Invalid JSON from recognition process: 2025-05-08 09:53:21,947 - __main__ - INFO - Face locations: [(55, 98, 98, 55)]
+2025-05-08T04:23:22.226Z error: Invalid JSON from recognition process: 2025-05-08 09:53:22,226 - __main__ - INFO - Recognized 1 faces in 0.30 seconds
+2025-05-08T04:23:22.961Z error: Invalid JSON from recognition process: 2025-05-08 09:53:22,954 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T04:23:22.961Z error: Invalid JSON from recognition process: 2025-05-08 09:53:22,954 - __main__ - INFO - Face locations: [(55, 98, 98, 55)]
+2025-05-08T04:23:23.241Z error: Invalid JSON from recognition process: 2025-05-08 09:53:23,239 - __main__ - INFO - Recognized 1 faces in 0.29 seconds
+2025-05-08T04:23:23.941Z error: Invalid JSON from recognition process: 2025-05-08 09:53:23,933 - __main__ - INFO - No faces detected in frame
+2025-05-08T04:23:29.576Z error: Invalid JSON from recognition process: 2025-05-08 09:53:29,578 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T04:23:29.577Z error: Invalid JSON from recognition process: 2025-05-08 09:53:29,578 - __main__ - INFO - Face locations: [(55, 98, 98, 55)]
+2025-05-08T04:23:30.504Z error: Invalid JSON from recognition process: 2025-05-08 09:53:30,506 - __main__ - INFO - Recognized 1 faces in 0.96 seconds
+2025-05-08T04:23:30.573Z error: Invalid JSON from recognition process: 2025-05-08 09:53:30,569 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T04:23:30.574Z error: Invalid JSON from recognition process: 2025-05-08 09:53:30,576 - __main__ - INFO - Face locations: [(55, 98, 98, 55)]
+2025-05-08T04:23:31.511Z error: Invalid JSON from recognition process: 2025-05-08 09:53:31,513 - __main__ - INFO - Recognized 1 faces in 0.97 seconds
+2025-05-08T04:23:31.573Z error: Invalid JSON from recognition process: 2025-05-08 09:53:31,568 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T04:23:31.574Z error: Invalid JSON from recognition process: 2025-05-08 09:53:31,568 - __main__ - INFO - Face locations: [(55, 98, 98, 55)]
+2025-05-08T04:23:32.488Z error: Invalid JSON from recognition process: 2025-05-08 09:53:32,490 - __main__ - INFO - Recognized 1 faces in 0.95 seconds
+2025-05-08T04:23:32.576Z error: Invalid JSON from recognition process: 2025-05-08 09:53:32,574 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T04:23:32.577Z error: Invalid JSON from recognition process: 2025-05-08 09:53:32,574 - __main__ - INFO - Face locations: [(55, 98, 98, 55)]
+2025-05-08T04:23:33.497Z error: Invalid JSON from recognition process: 2025-05-08 09:53:33,496 - __main__ - INFO - Recognized 1 faces in 0.95 seconds
+2025-05-08T04:23:33.580Z error: Invalid JSON from recognition process: 2025-05-08 09:53:33,580 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T04:23:33.581Z error: Invalid JSON from recognition process: 2025-05-08 09:53:33,580 - __main__ - INFO - Face locations: [(55, 98, 98, 55)]
+2025-05-08T04:23:34.501Z error: Invalid JSON from recognition process: 2025-05-08 09:53:34,498 - __main__ - INFO - Recognized 1 faces in 0.96 seconds
+2025-05-08T04:23:34.571Z error: Invalid JSON from recognition process: 2025-05-08 09:53:34,573 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T04:23:34.572Z error: Invalid JSON from recognition process: 2025-05-08 09:53:34,573 - __main__ - INFO - Face locations: [(55, 98, 98, 55)]
+2025-05-08T04:23:35.488Z error: Invalid JSON from recognition process: 2025-05-08 09:53:35,491 - __main__ - INFO - Recognized 1 faces in 0.96 seconds
+2025-05-08T04:23:39.667Z info: New WebSocket connection established: Chat (Client 1746678219667)
+2025-05-08T04:23:39.671Z info: Started chat process for client 1746678219667
+2025-05-08T04:23:39.681Z info: WebSocket chat connection closed for client 1746678219667
+2025-05-08T04:23:39.681Z info: Terminated chat process for client 1746678219667
+2025-05-08T04:23:39.683Z info: Chat process closed with code null
+2025-05-08T04:23:41.239Z info: WebSocket chat connection closed for client 1746678158549
+2025-05-08T04:23:41.239Z info: Terminated chat process for client 1746678158549
+2025-05-08T04:23:41.243Z info: WebSocket recognition connection closed for client 1746678199252
+2025-05-08T04:23:41.244Z info: Terminated recognition process for client 1746678199252
+2025-05-08T04:23:41.244Z info: WebSocket chat connection closed for client 1746678180926
+2025-05-08T04:23:41.245Z info: Terminated chat process for client 1746678180926
+2025-05-08T04:23:41.249Z info: Recognition process closed with code null
+2025-05-08T04:23:41.249Z info: Chat process closed with code null
+2025-05-08T04:23:41.251Z info: Chat process closed with code null
+2025-05-08T04:23:41.279Z info: Retrieved 6 registered faces
+2025-05-08T04:23:41.284Z info: Retrieved 6 registered faces
+2025-05-08T04:23:43.647Z info: New WebSocket connection established: Chat (Client 1746678223647)
+2025-05-08T04:23:43.656Z info: Started chat process for client 1746678223647
+2025-05-08T04:23:43.659Z info: WebSocket chat connection closed for client 1746678223647
+2025-05-08T04:23:43.661Z info: Terminated chat process for client 1746678223647
+2025-05-08T04:23:43.663Z info: New WebSocket connection established: Chat (Client 1746678223663)
+2025-05-08T04:23:43.669Z info: Started chat process for client 1746678223663
+2025-05-08T04:23:43.670Z info: Chat process closed with code null
+2025-05-08T04:23:46.656Z info: New WebSocket connection established: Chat (Client 1746678226656)
+2025-05-08T04:23:46.664Z info: Started chat process for client 1746678226656
+2025-05-08T04:23:54.861Z info: Received chat query: who was the last person to register ?
+2025-05-08T04:23:54.868Z info: Chat process output: {"type":"error","message":"No data available to query. Please register some faces first."}
+2025-05-08T04:24:09.358Z info: WebSocket chat connection closed for client 1746678226656
+2025-05-08T04:24:09.362Z info: Terminated chat process for client 1746678226656
+2025-05-08T04:24:09.367Z info: Retrieved 6 registered faces
+2025-05-08T04:24:09.370Z info: Chat process closed with code null
+2025-05-08T04:24:09.372Z info: Retrieved 6 registered faces
+2025-05-08T04:24:12.371Z info: New WebSocket connection established: Chat (Client 1746678252371)
+2025-05-08T04:24:12.377Z info: Started chat process for client 1746678252371
+2025-05-08T04:26:46.897Z info: Database initialized successfully
+2025-05-08T04:26:46.900Z info: Server running on port 5000
+2025-05-08T04:26:46.900Z info: WebSocket server is ready for face recognition and chat
+2025-05-08T04:26:47.141Z info: New WebSocket connection established: Chat (Client 1746678407141)
+2025-05-08T04:26:47.149Z info: Started chat process for client 1746678407141
+2025-05-08T04:26:49.254Z info: New WebSocket connection established: Chat (Client 1746678409254)
+2025-05-08T04:26:49.258Z info: Started chat process for client 1746678409254
+2025-05-08T04:26:52.269Z info: Chat process output: {"type":"error","message":"Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"}
+2025-05-08T04:26:54.687Z info: Chat process output: {"type":"error","message":"Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"}
+2025-05-08T04:26:59.415Z info: Retrieved 6 registered faces
+2025-05-08T04:26:59.422Z info: Retrieved 6 registered faces
+2025-05-08T04:27:02.435Z info: New WebSocket connection established: Chat (Client 1746678422435)
+2025-05-08T04:27:02.442Z info: Started chat process for client 1746678422435
+2025-05-08T04:27:02.447Z info: WebSocket chat connection closed for client 1746678422435
+2025-05-08T04:27:02.447Z info: Terminated chat process for client 1746678422435
+2025-05-08T04:27:02.448Z info: New WebSocket connection established: Chat (Client 1746678422448)
+2025-05-08T04:27:02.452Z info: Started chat process for client 1746678422448
+2025-05-08T04:27:02.453Z info: Chat process closed with code null
+2025-05-08T04:27:05.454Z info: New WebSocket connection established: Chat (Client 1746678425454)
+2025-05-08T04:27:05.462Z info: Started chat process for client 1746678425454
+2025-05-08T04:27:07.454Z info: Chat process output: {"type":"error","message":"Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"}
+2025-05-08T04:27:10.334Z info: Chat process output: {"type":"error","message":"Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"}
+2025-05-08T04:27:20.910Z info: Received chat query: who was the last person to register ?
+2025-05-08T04:27:20.911Z info: Chat process output: {"type":"error","message":"No data available to query. Please register some faces first."}
+2025-05-08T04:28:40.255Z info: WebSocket chat connection closed for client 1746678425454
+2025-05-08T04:28:40.256Z info: Terminated chat process for client 1746678425454
+2025-05-08T04:28:40.258Z info: New WebSocket connection established: Chat (Client 1746678520258)
+2025-05-08T04:28:40.268Z info: Started chat process for client 1746678520258
+2025-05-08T04:28:40.270Z info: WebSocket chat connection closed for client 1746678520258
+2025-05-08T04:28:40.270Z info: Terminated chat process for client 1746678520258
+2025-05-08T04:28:40.271Z info: Chat process closed with code null
+2025-05-08T04:28:40.272Z info: Chat process closed with code null
+2025-05-08T04:28:40.273Z info: New WebSocket connection established: Chat (Client 1746678520273)
+2025-05-08T04:28:40.277Z info: Started chat process for client 1746678520273
+2025-05-08T04:28:44.262Z info: New WebSocket connection established: Chat (Client 1746678524262)
+2025-05-08T04:28:44.272Z info: Started chat process for client 1746678524262
+2025-05-08T04:30:15.147Z info: Received chat query: who was the last person to register?
+2025-05-08T04:30:15.150Z info: Chat process output: {"type":"error","message":"No data available to query. Please register some faces first."}
+2025-05-08T04:30:29.689Z info: WebSocket chat connection closed for client 1746678520273
+2025-05-08T04:30:29.691Z info: Terminated chat process for client 1746678520273
+2025-05-08T04:30:29.696Z info: Retrieved 6 registered faces
+2025-05-08T04:30:29.699Z info: Chat process closed with code null
+2025-05-08T04:30:29.702Z info: Retrieved 6 registered faces
+2025-05-08T04:33:14.387Z info: WebSocket chat connection closed for client 1746678524262
+2025-05-08T04:33:14.388Z info: Terminated chat process for client 1746678524262
+2025-05-08T04:33:14.388Z info: WebSocket chat connection closed for client 1746678422448
+2025-05-08T04:33:14.389Z info: Terminated chat process for client 1746678422448
+2025-05-08T04:33:14.393Z info: Chat process closed with code null
+2025-05-08T04:33:14.393Z info: Chat process closed with code null
+2025-05-08T04:33:14.516Z info: Retrieved 6 registered faces
+2025-05-08T04:33:14.519Z info: Retrieved 6 registered faces
+2025-05-08T04:33:16.566Z info: New WebSocket connection established: Chat (Client 1746678796566)
+2025-05-08T04:33:16.574Z info: Started chat process for client 1746678796566
+2025-05-08T04:33:16.575Z info: WebSocket chat connection closed for client 1746678796566
+2025-05-08T04:33:16.576Z info: Terminated chat process for client 1746678796566
+2025-05-08T04:33:16.577Z info: Chat process closed with code null
+2025-05-08T04:33:16.593Z info: New WebSocket connection established: Chat (Client 1746678796593)
+2025-05-08T04:33:16.598Z info: Started chat process for client 1746678796593
+2025-05-08T04:33:18.199Z info: WebSocket chat connection closed for client 1746678407141
+2025-05-08T04:33:18.200Z info: Terminated chat process for client 1746678407141
+2025-05-08T04:33:18.202Z info: WebSocket chat connection closed for client 1746678409254
+2025-05-08T04:33:18.203Z info: Terminated chat process for client 1746678409254
+2025-05-08T04:33:18.204Z info: Chat process closed with code null
+2025-05-08T04:33:18.207Z info: Chat process closed with code null
+2025-05-08T04:33:18.312Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T04:33:19.195Z error: Chat process error: 2025-05-08 10:03:19,194 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T04:33:19.196Z error: Chat process error: 2025-05-08 10:03:19,194 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T04:33:19.198Z error: Chat process error: 2025-05-08 10:03:19,198 - __main__ - INFO - Found 6 faces in database
+
+2025-05-08T04:33:19.198Z error: Chat process error: 2025-05-08 10:03:19,198 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: p
+2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: Sleepy Poorvika
+
+2025-05-08T04:33:19.199Z error: Chat process error: 2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: d
+2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:03:19,198 - __main__ - INFO - Added document for face: trail
+
+2025-05-08T04:33:20.736Z error: Chat process error: 2025-05-08 10:03:20,735 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:33:20.738Z error: Chat process error: 2025-05-08 10:03:20,736 - openai._base_client - INFO - Retrying request to /embeddings in 0.425772 seconds
+
+2025-05-08T04:33:21.601Z error: Chat process error: 2025-05-08 10:03:21,599 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:33:21.603Z error: Chat process error: 2025-05-08 10:03:21,599 - openai._base_client - INFO - Retrying request to /embeddings in 0.999614 seconds
+
+2025-05-08T04:33:23.092Z error: Chat process error: 2025-05-08 10:03:23,083 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:33:23.094Z error: Chat process error: 2025-05-08 10:03:23,094 - __main__ - ERROR - Error loading data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+2025-05-08T04:33:23.095Z info: Chat process output: {"type":"error","message":"Error loading face data: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"}
+2025-05-08T04:33:23.095Z info: Chat process output: {"type":"system","message":"Chat system initialized, but no face data is available. Please register faces first."}
+2025-05-08T04:43:19.931Z info: Database initialized successfully
+2025-05-08T04:43:19.935Z info: Server running on port 5000
+2025-05-08T04:43:19.935Z info: WebSocket server is ready for face recognition and chat
+2025-05-08T04:43:32.858Z info: Retrieved 6 registered faces
+2025-05-08T04:43:32.865Z info: Retrieved 6 registered faces
+2025-05-08T04:43:36.693Z info: New WebSocket connection established: Chat (Client 1746679416693)
+2025-05-08T04:43:36.704Z info: Started chat process for client 1746679416693
+2025-05-08T04:43:36.708Z info: WebSocket chat connection closed for client 1746679416693
+2025-05-08T04:43:36.709Z info: Terminated chat process for client 1746679416693
+2025-05-08T04:43:36.710Z info: New WebSocket connection established: Chat (Client 1746679416710)
+2025-05-08T04:43:36.715Z info: Started chat process for client 1746679416710
+2025-05-08T04:43:36.716Z info: Chat process closed with code null
+2025-05-08T04:43:38.620Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T04:43:39.453Z error: Chat process error: 2025-05-08 10:13:39,449 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T04:43:39.455Z error: Chat process error: 2025-05-08 10:13:39,449 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:13:39,449 - __main__ - INFO - Found 6 faces in database
+2025-05-08 10:13:39,449 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+
+2025-05-08T04:43:39.456Z error: Chat process error: 2025-05-08 10:13:39,449 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:13:39,449 - __main__ - INFO - Added document for face: p
+2025-05-08 10:13:39,449 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:13:39,449 - __main__ - INFO - Added document for face: d
+2025-05-08 10:13:39,460 - __main__ - INFO - Added document for face: pichi
+
+2025-05-08T04:43:39.457Z error: Chat process error: 2025-05-08 10:13:39,460 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:13:39,460 - __main__ - INFO - Attempting to create embeddings for 6 documents
+
+2025-05-08T04:43:40.364Z error: Chat process error: 2025-05-08 10:13:40,367 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:43:40.367Z error: Chat process error: 2025-05-08 10:13:40,369 - openai._base_client - INFO - Retrying request to /embeddings in 0.470485 seconds
+
+2025-05-08T04:43:41.595Z error: Chat process error: 2025-05-08 10:13:41,589 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:43:41.600Z error: Chat process error: 2025-05-08 10:13:41,602 - openai._base_client - INFO - Retrying request to /embeddings in 0.982592 seconds
+
+2025-05-08T04:43:43.541Z error: Chat process error: 2025-05-08 10:13:43,540 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:43:43.543Z error: Chat process error: 2025-05-08 10:13:43,545 - openai._base_client - INFO - Retrying request to /embeddings in 1.677925 seconds
+
+2025-05-08T04:43:45.892Z error: Chat process error: 2025-05-08 10:13:45,892 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:43:45.894Z error: Chat process error: 2025-05-08 10:13:45,897 - openai._base_client - INFO - Retrying request to /embeddings in 3.661918 seconds
+
+2025-05-08T04:43:49.885Z error: Chat process error: 2025-05-08 10:13:49,879 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:43:49.887Z error: Chat process error: 2025-05-08 10:13:49,879 - openai._base_client - INFO - Retrying request to /embeddings in 7.493379 seconds
+
+2025-05-08T04:43:58.078Z error: Chat process error: 2025-05-08 10:13:58,081 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:43:58.082Z error: Chat process error: 2025-05-08 10:13:58,085 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:13:58,085 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:13:58,085 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+
+2025-05-08T04:43:58.085Z info: Chat process output: {"type":"system","message":"API rate limited. Using simple storage mode for 6 faces."}
+2025-05-08T04:43:58.089Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T04:44:19.082Z info: Received chat query: who was the last person to register ?
+2025-05-08T04:44:19.089Z error: Chat process error: 2025-05-08 10:14:19,092 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T04:44:20.616Z error: Chat process error: 2025-05-08 10:14:20,616 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T04:44:20.641Z error: Chat process error: 2025-05-08 10:14:20,633 - __main__ - INFO - Query: who was the last person to register ?, Answer: The last person to register was trail on 2025-05-08 at 04:23:12.
+
+2025-05-08T04:44:20.643Z info: Chat process output: {"type":"response","answer":"The last person to register was trail on 2025-05-08 at 04:23:12."}
+2025-05-08T04:44:53.704Z info: Received chat query: how many people have been registered ?
+2025-05-08T04:44:53.708Z error: Chat process error: 2025-05-08 10:14:53,707 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T04:44:54.572Z error: Chat process error: 2025-05-08 10:14:54,571 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T04:44:54.579Z error: Chat process error: 2025-05-08 10:14:54,576 - __main__ - INFO - Query: how many people have been registered ?, Answer: Three people have been registered.
+
+2025-05-08T04:44:54.581Z info: Chat process output: {"type":"response","answer":"Three people have been registered."}
+2025-05-08T04:45:15.861Z info: WebSocket chat connection closed for client 1746679416710
+2025-05-08T04:45:15.862Z info: Terminated chat process for client 1746679416710
+2025-05-08T04:45:15.868Z info: Retrieved 6 registered faces
+2025-05-08T04:45:15.872Z info: Chat process closed with code null
+2025-05-08T04:45:15.876Z info: Retrieved 6 registered faces
+2025-05-08T04:45:19.719Z info: New WebSocket connection established: Chat (Client 1746679519719)
+2025-05-08T04:45:19.729Z info: Started chat process for client 1746679519719
+2025-05-08T04:45:21.407Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T04:45:22.206Z error: Chat process error: 2025-05-08 10:15:22,206 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T04:45:22.207Z error: Chat process error: 2025-05-08 10:15:22,206 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T04:45:22.208Z error: Chat process error: 2025-05-08 10:15:22,206 - __main__ - INFO - Found 6 faces in database
+
+2025-05-08T04:45:22.208Z error: Chat process error: 2025-05-08 10:15:22,208 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+
+2025-05-08T04:45:22.208Z error: Chat process error: 2025-05-08 10:15:22,208 - __main__ - INFO - Added document for face: Poorvika
+
+2025-05-08T04:45:22.209Z error: Chat process error: 2025-05-08 10:15:22,208 - __main__ - INFO - Added document for face: p
+2025-05-08 10:15:22,208 - __main__ - INFO - Added document for face: Sleepy Poorvika
+
+2025-05-08T04:45:22.210Z error: Chat process error: 2025-05-08 10:15:22,208 - __main__ - INFO - Added document for face: d
+2025-05-08 10:15:22,210 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:15:22,210 - __main__ - INFO - Added document for face: trail
+
+2025-05-08T04:45:22.210Z error: Chat process error: 2025-05-08 10:15:22,210 - __main__ - INFO - Attempting to create embeddings for 6 documents
+
+2025-05-08T04:45:22.774Z error: Chat process error: 2025-05-08 10:15:22,759 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:45:22.776Z error: Chat process error: 2025-05-08 10:15:22,775 - openai._base_client - INFO - Retrying request to /embeddings in 0.446392 seconds
+
+2025-05-08T04:45:23.743Z error: Chat process error: 2025-05-08 10:15:23,741 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:45:23.747Z error: Chat process error: 2025-05-08 10:15:23,746 - openai._base_client - INFO - Retrying request to /embeddings in 0.831000 seconds
+
+2025-05-08T04:45:25.123Z error: Chat process error: 2025-05-08 10:15:25,122 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:45:25.124Z error: Chat process error: 2025-05-08 10:15:25,124 - openai._base_client - INFO - Retrying request to /embeddings in 1.734791 seconds
+
+2025-05-08T04:45:27.171Z error: Chat process error: 2025-05-08 10:15:27,168 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:45:27.173Z error: Chat process error: 2025-05-08 10:15:27,172 - openai._base_client - INFO - Retrying request to /embeddings in 3.566378 seconds
+
+2025-05-08T04:45:31.266Z error: Chat process error: 2025-05-08 10:15:31,265 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:45:31.269Z error: Chat process error: 2025-05-08 10:15:31,265 - openai._base_client - INFO - Retrying request to /embeddings in 7.036293 seconds
+
+2025-05-08T04:45:38.636Z error: Chat process error: 2025-05-08 10:15:38,634 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:45:38.639Z error: Chat process error: 2025-05-08 10:15:38,639 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+2025-05-08T04:45:38.640Z error: Chat process error: 2025-05-08 10:15:38,639 - __main__ - WARNING - Rate limit hit, waiting before retry...
+
+2025-05-08T04:45:38.641Z info: Chat process output: {"type":"system","message":"API rate limited. Using simple storage mode for 6 faces."}
+2025-05-08T04:45:38.643Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T04:45:38.646Z error: Chat process error: 2025-05-08 10:15:38,640 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+
+2025-05-08T04:45:47.835Z info: Received chat query: when did p register ?
+2025-05-08T04:45:47.838Z error: Chat process error: 2025-05-08 10:15:47,837 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T04:45:49.704Z error: Chat process error: 2025-05-08 10:15:49,702 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T04:45:49.726Z error: Chat process error: 2025-05-08 10:15:49,724 - __main__ - INFO - Query: when did p register ?, Answer: p registered on May 7, 2025, at 10:09:15.
+
+2025-05-08T04:45:49.728Z info: Chat process output: {"type":"response","answer":"p registered on May 7, 2025, at 10:09:15."}
+2025-05-08T04:45:54.684Z info: WebSocket chat connection closed for client 1746679519719
+2025-05-08T04:45:54.686Z info: Terminated chat process for client 1746679519719
+2025-05-08T04:45:54.690Z info: Retrieved 6 registered faces
+2025-05-08T04:45:54.693Z info: Chat process closed with code null
+2025-05-08T04:45:54.695Z info: Retrieved 6 registered faces
+2025-05-08T04:45:59.989Z info: New WebSocket connection established: Chat (Client 1746679559989)
+2025-05-08T04:46:00.002Z info: Started chat process for client 1746679559989
+2025-05-08T04:46:00.004Z info: WebSocket chat connection closed for client 1746679559989
+2025-05-08T04:46:00.005Z info: Terminated chat process for client 1746679559989
+2025-05-08T04:46:00.008Z info: New WebSocket connection established: Chat (Client 1746679560008)
+2025-05-08T04:46:00.017Z info: Started chat process for client 1746679560008
+2025-05-08T04:46:00.018Z info: Chat process closed with code null
+2025-05-08T04:46:01.717Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T04:46:02.559Z error: Chat process error: 2025-05-08 10:16:02,559 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T04:46:02.560Z error: Chat process error: 2025-05-08 10:16:02,559 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T04:46:02.561Z error: Chat process error: 2025-05-08 10:16:02,561 - __main__ - INFO - Found 6 faces in database
+
+2025-05-08T04:46:02.561Z error: Chat process error: 2025-05-08 10:16:02,561 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:16:02,561 - __main__ - INFO - Added document for face: Poorvika
+
+2025-05-08T04:46:02.562Z error: Chat process error: 2025-05-08 10:16:02,562 - __main__ - INFO - Added document for face: p
+
+2025-05-08T04:46:02.563Z error: Chat process error: 2025-05-08 10:16:02,562 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:16:02,562 - __main__ - INFO - Added document for face: d
+2025-05-08 10:16:02,562 - __main__ - INFO - Added document for face: pichi
+
+2025-05-08T04:46:02.564Z error: Chat process error: 2025-05-08 10:16:02,562 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:16:02,562 - __main__ - INFO - Attempting to create embeddings for 6 documents
+
+2025-05-08T04:46:03.320Z error: Chat process error: 2025-05-08 10:16:03,314 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:46:03.322Z error: Chat process error: 2025-05-08 10:16:03,314 - openai._base_client - INFO - Retrying request to /embeddings in 0.380257 seconds
+
+2025-05-08T04:46:04.037Z error: Chat process error: 2025-05-08 10:16:04,031 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:46:04.041Z error: Chat process error: 2025-05-08 10:16:04,039 - openai._base_client - INFO - Retrying request to /embeddings in 0.981484 seconds
+
+2025-05-08T04:46:05.573Z error: Chat process error: 2025-05-08 10:16:05,573 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:46:05.574Z error: Chat process error: 2025-05-08 10:16:05,573 - openai._base_client - INFO - Retrying request to /embeddings in 1.940578 seconds
+
+2025-05-08T04:46:07.826Z error: Chat process error: 2025-05-08 10:16:07,822 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:46:07.829Z error: Chat process error: 2025-05-08 10:16:07,827 - openai._base_client - INFO - Retrying request to /embeddings in 3.328720 seconds
+
+2025-05-08T04:46:11.920Z error: Chat process error: 2025-05-08 10:16:11,919 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:46:11.922Z error: Chat process error: 2025-05-08 10:16:11,921 - openai._base_client - INFO - Retrying request to /embeddings in 6.933605 seconds
+
+2025-05-08T04:46:19.346Z error: Chat process error: 2025-05-08 10:16:19,341 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:46:19.349Z error: Chat process error: 2025-05-08 10:16:19,349 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+2025-05-08T04:46:19.350Z info: Chat process output: {"type":"system","message":"API rate limited. Using simple storage mode for 6 faces."}
+2025-05-08T04:46:19.352Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T04:46:19.353Z error: Chat process error: 2025-05-08 10:16:19,349 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:16:19,349 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+
+2025-05-08T04:46:25.190Z info: Received chat query: when did p register ?
+2025-05-08T04:46:25.192Z error: Chat process error: 2025-05-08 10:16:25,190 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T04:46:27.184Z error: Chat process error: 2025-05-08 10:16:27,170 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T04:46:27.207Z error: Chat process error: 2025-05-08 10:16:27,206 - __main__ - INFO - Query: when did p register ?, Answer: The information about a person named "p" is not available in the database.
+
+2025-05-08T04:46:27.209Z info: Chat process output: {"type":"response","answer":"The information about a person named \"p\" is not available in the database."}
+2025-05-08T04:51:16.262Z info: WebSocket chat connection closed for client 1746679560008
+2025-05-08T04:51:16.263Z info: Terminated chat process for client 1746679560008
+2025-05-08T04:51:16.263Z info: New WebSocket connection established: Chat (Client 1746679876263)
+2025-05-08T04:51:16.267Z info: Started chat process for client 1746679876263
+2025-05-08T04:51:16.270Z info: Chat process closed with code null
+2025-05-08T04:51:18.084Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T04:51:18.995Z error: Chat process error: 2025-05-08 10:21:18,995 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T04:51:18.996Z error: Chat process error: 2025-05-08 10:21:18,995 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:21:18,995 - __main__ - INFO - Found 6 faces in database
+2025-05-08 10:21:18,995 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+
+2025-05-08T04:51:18.997Z error: Chat process error: 2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: p
+2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: d
+2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:21:18,995 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:21:18,995 - __main__ - INFO - Attempting to create embeddings for 6 documents
+
+2025-05-08T04:51:19.639Z error: Chat process error: 2025-05-08 10:21:19,638 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:51:19.641Z error: Chat process error: 2025-05-08 10:21:19,640 - openai._base_client - INFO - Retrying request to /embeddings in 0.442235 seconds
+
+2025-05-08T04:51:20.339Z error: Chat process error: 2025-05-08 10:21:20,332 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:51:20.342Z error: Chat process error: 2025-05-08 10:21:20,342 - openai._base_client - INFO - Retrying request to /embeddings in 0.875320 seconds
+
+2025-05-08T04:51:21.585Z error: Chat process error: 2025-05-08 10:21:21,581 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:51:21.586Z error: Chat process error: 2025-05-08 10:21:21,581 - openai._base_client - INFO - Retrying request to /embeddings in 1.883844 seconds
+
+2025-05-08T04:51:23.836Z error: Chat process error: 2025-05-08 10:21:23,831 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:51:23.837Z error: Chat process error: 2025-05-08 10:21:23,831 - openai._base_client - INFO - Retrying request to /embeddings in 3.486516 seconds
+
+2025-05-08T04:51:27.583Z error: Chat process error: 2025-05-08 10:21:27,581 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:51:27.585Z error: Chat process error: 2025-05-08 10:21:27,581 - openai._base_client - INFO - Retrying request to /embeddings in 6.860908 seconds
+
+2025-05-08T04:51:34.793Z error: Chat process error: 2025-05-08 10:21:34,791 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:51:34.794Z error: Chat process error: 2025-05-08 10:21:34,793 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:21:34,793 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:21:34,793 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+
+2025-05-08T04:51:34.795Z info: Chat process output: {"type":"system","message":"Using simple storage mode for 6 faces due to API limitations."}
+2025-05-08T04:51:34.796Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T04:53:54.089Z info: Database initialized successfully
+2025-05-08T04:53:54.092Z info: Server running on port 5000
+2025-05-08T04:53:54.093Z info: WebSocket server is ready for face recognition and chat
+2025-05-08T04:54:03.196Z info: Retrieved 6 registered faces
+2025-05-08T04:54:03.202Z info: Retrieved 6 registered faces
+2025-05-08T04:54:09.540Z info: New WebSocket connection established: Chat (Client 1746680049540)
+2025-05-08T04:54:09.565Z info: Started chat process for client 1746680049540
+2025-05-08T04:54:09.575Z info: WebSocket chat connection closed for client 1746680049540
+2025-05-08T04:54:09.576Z info: Terminated chat process for client 1746680049540
+2025-05-08T04:54:09.579Z info: New WebSocket connection established: Chat (Client 1746680049579)
+2025-05-08T04:54:09.586Z info: Started chat process for client 1746680049579
+2025-05-08T04:54:09.589Z info: Chat process closed with code null
+2025-05-08T04:54:11.290Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T04:54:12.127Z error: Chat process error: 2025-05-08 10:24:12,126 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T04:54:12.128Z error: Chat process error: 2025-05-08 10:24:12,126 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T04:54:12.128Z error: Chat process error: 2025-05-08 10:24:12,128 - __main__ - INFO - Found 6 faces in database
+2025-05-08 10:24:12,128 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+
+2025-05-08T04:54:12.129Z error: Chat process error: 2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: p
+2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: d
+2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: pichi
+
+2025-05-08T04:54:12.130Z error: Chat process error: 2025-05-08 10:24:12,128 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:24:12,128 - __main__ - INFO - Attempting to create embeddings for 6 documents
+
+2025-05-08T04:54:12.697Z error: Chat process error: 2025-05-08 10:24:12,694 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:54:12.699Z error: Chat process error: 2025-05-08 10:24:12,694 - openai._base_client - INFO - Retrying request to /embeddings in 0.421486 seconds
+
+2025-05-08T04:54:13.513Z error: Chat process error: 2025-05-08 10:24:13,504 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:54:13.515Z error: Chat process error: 2025-05-08 10:24:13,504 - openai._base_client - INFO - Retrying request to /embeddings in 0.862515 seconds
+
+2025-05-08T04:54:14.740Z error: Chat process error: 2025-05-08 10:24:14,736 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:54:14.741Z error: Chat process error: 2025-05-08 10:24:14,736 - openai._base_client - INFO - Retrying request to /embeddings in 1.818479 seconds
+
+2025-05-08T04:54:16.924Z error: Chat process error: 2025-05-08 10:24:16,923 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:54:16.925Z error: Chat process error: 2025-05-08 10:24:16,923 - openai._base_client - INFO - Retrying request to /embeddings in 3.859666 seconds
+
+2025-05-08T04:54:20.038Z info: Received chat query: when did p register ?
+2025-05-08T04:54:21.086Z error: Chat process error: 2025-05-08 10:24:21,085 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:54:21.087Z error: Chat process error: 2025-05-08 10:24:21,085 - openai._base_client - INFO - Retrying request to /embeddings in 7.809559 seconds
+
+2025-05-08T04:54:29.287Z error: Chat process error: 2025-05-08 10:24:29,287 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T04:54:29.289Z error: Chat process error: 2025-05-08 10:24:29,289 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+2025-05-08T04:54:29.291Z info: Chat process output: {"type":"system","message":"Using simple storage mode for 6 faces due to API limitations."}
+2025-05-08T04:54:29.292Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T04:54:29.293Z error: Chat process error: 2025-05-08 10:24:29,289 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:24:29,289 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:24:29,291 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T04:54:30.418Z error: Chat process error: 2025-05-08 10:24:30,417 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T04:54:30.437Z error: Chat process error: 2025-05-08 10:24:30,435 - __main__ - INFO - Query: when did p register ?, Answer: p registered on May 7, 2025, at 10:09:15.
+
+2025-05-08T04:54:30.438Z info: Chat process output: {"type":"response","answer":"p registered on May 7, 2025, at 10:09:15."}
+2025-05-08T04:54:57.716Z info: Received chat query: how many people have been registered till now ?
+2025-05-08T04:54:57.718Z error: Chat process error: 2025-05-08 10:24:57,716 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T04:54:58.793Z error: Chat process error: 2025-05-08 10:24:58,783 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T04:54:58.803Z error: Chat process error: 2025-05-08 10:24:58,800 - __main__ - INFO - Query: how many people have been registered till now ?, Answer: Three people have been registered till now.
+
+2025-05-08T04:54:58.804Z info: Chat process output: {"type":"response","answer":"Three people have been registered till now."}
+2025-05-08T04:55:17.201Z info: Received chat query: but there are 6 people in database right ?
+2025-05-08T04:55:17.202Z error: Chat process error: 2025-05-08 10:25:17,200 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T04:55:18.336Z error: Chat process error: 2025-05-08 10:25:18,336 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T04:55:18.341Z error: Chat process error: 2025-05-08 10:25:18,336 - __main__ - INFO - Query: but there are 6 people in database right ?, Answer: The information provided only lists three registered faces, so it appears that there are not six people in the database.
+
+2025-05-08T04:55:18.342Z info: Chat process output: {"type":"response","answer":"The information provided only lists three registered faces, so it appears that there are not six people in the database."}
+2025-05-08T04:55:42.348Z info: Received chat query: How many people are currently registered?
+2025-05-08T04:55:42.350Z error: Chat process error: 2025-05-08 10:25:42,346 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T04:55:43.052Z error: Chat process error: 2025-05-08 10:25:43,044 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T04:55:43.057Z error: Chat process error: 2025-05-08 10:25:43,044 - __main__ - INFO - Query: How many people are currently registered?, Answer: There are currently three people registered.
+
+2025-05-08T04:55:43.058Z info: Chat process output: {"type":"response","answer":"There are currently three people registered."}
+2025-05-08T05:01:58.887Z info: WebSocket chat connection closed for client 1746680049579
+2025-05-08T05:01:58.888Z info: Terminated chat process for client 1746680049579
+2025-05-08T05:01:58.892Z info: Chat process closed with code null
+2025-05-08T05:01:58.914Z info: Retrieved 6 registered faces
+2025-05-08T05:01:58.919Z info: Retrieved 6 registered faces
+2025-05-08T05:02:03.403Z info: New WebSocket connection established: Chat (Client 1746680523403)
+2025-05-08T05:02:03.414Z info: Started chat process for client 1746680523403
+2025-05-08T05:02:03.418Z info: WebSocket chat connection closed for client 1746680523403
+2025-05-08T05:02:03.419Z info: Terminated chat process for client 1746680523403
+2025-05-08T05:02:03.422Z info: New WebSocket connection established: Chat (Client 1746680523422)
+2025-05-08T05:02:03.432Z info: Started chat process for client 1746680523422
+2025-05-08T05:02:03.435Z info: Chat process closed with code null
+2025-05-08T05:02:05.188Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T05:02:06.013Z error: Chat process error: 2025-05-08 10:32:06,012 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T05:02:06.014Z error: Chat process error: 2025-05-08 10:32:06,012 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T05:02:06.015Z error: Chat process error: 2025-05-08 10:32:06,012 - __main__ - INFO - Found 6 faces in database
+
+2025-05-08T05:02:06.016Z error: Chat process error: 2025-05-08 10:32:06,012 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: p
+
+2025-05-08T05:02:06.017Z error: Chat process error: 2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: d
+2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:32:06,012 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:32:06,012 - __main__ - INFO - Attempting to create embeddings for 6 documents
+
+2025-05-08T05:02:06.716Z error: Chat process error: 2025-05-08 10:32:06,714 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:02:06.717Z error: Chat process error: 2025-05-08 10:32:06,714 - openai._base_client - INFO - Retrying request to /embeddings in 0.486366 seconds
+
+2025-05-08T05:02:07.534Z error: Chat process error: 2025-05-08 10:32:07,531 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:02:07.536Z error: Chat process error: 2025-05-08 10:32:07,534 - openai._base_client - INFO - Retrying request to /embeddings in 0.817963 seconds
+
+2025-05-08T05:02:07.752Z info: Received chat query: How many people are currently registered?
+2025-05-08T05:02:09.379Z error: Chat process error: 2025-05-08 10:32:09,366 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:02:09.381Z error: Chat process error: 2025-05-08 10:32:09,379 - openai._base_client - INFO - Retrying request to /embeddings in 1.667045 seconds
+
+2025-05-08T05:02:11.565Z error: Chat process error: 2025-05-08 10:32:11,563 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:02:11.567Z error: Chat process error: 2025-05-08 10:32:11,565 - openai._base_client - INFO - Retrying request to /embeddings in 3.632027 seconds
+
+2025-05-08T05:02:16.240Z error: Chat process error: 2025-05-08 10:32:16,236 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:02:16.241Z error: Chat process error: 2025-05-08 10:32:16,240 - openai._base_client - INFO - Retrying request to /embeddings in 7.478607 seconds
+
+2025-05-08T05:02:24.943Z error: Chat process error: 2025-05-08 10:32:24,939 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:02:24.946Z error: Chat process error: 2025-05-08 10:32:24,945 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+2025-05-08T05:02:24.947Z error: Chat process error: 2025-05-08 10:32:24,945 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:32:24,945 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+
+2025-05-08T05:02:24.947Z info: Chat process output: {"type":"system","message":"Using simple storage mode for 6 faces due to API limitations."}
+2025-05-08T05:02:24.949Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T05:02:24.949Z error: Chat process error: 2025-05-08 10:32:24,945 - __main__ - INFO - Used simple retrieval, found 6 documents
+
+2025-05-08T05:02:25.973Z error: Chat process error: 2025-05-08 10:32:25,972 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:02:25.992Z error: Chat process error: 2025-05-08 10:32:25,991 - __main__ - INFO - Query: How many people are currently registered?, Answer: Currently, there are 6 people registered.
+
+2025-05-08T05:02:25.993Z info: Chat process output: {"type":"response","answer":"Currently, there are 6 people registered."}
+2025-05-08T05:02:34.781Z info: WebSocket chat connection closed for client 1746680523422
+2025-05-08T05:02:34.785Z info: Terminated chat process for client 1746680523422
+2025-05-08T05:02:34.790Z info: Retrieved 6 registered faces
+2025-05-08T05:02:34.794Z info: Chat process closed with code null
+2025-05-08T05:02:34.798Z info: Retrieved 6 registered faces
+2025-05-08T05:02:46.701Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746680566699.jpg
+2025-05-08T05:02:48.674Z error: Python stderr: 2025-05-08 10:32:48,144 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746680566699.jpg
+2025-05-08 10:32:48,332 - __main__ - INFO - Generating face encoding for trail 2
+2025-05-08 10:32:48,602 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746680566699_verified.jpg
+
+2025-05-08T05:02:48.689Z info: Successfully registered face for trail 2
+2025-05-08T05:02:48.695Z info: Retrieved 7 registered faces
+2025-05-08T05:02:56.206Z info: New WebSocket connection established: Chat (Client 1746680576206)
+2025-05-08T05:02:56.216Z info: Started chat process for client 1746680576206
+2025-05-08T05:02:56.217Z info: WebSocket chat connection closed for client 1746680576206
+2025-05-08T05:02:56.218Z info: Terminated chat process for client 1746680576206
+2025-05-08T05:02:56.220Z info: Chat process closed with code null
+2025-05-08T05:02:56.234Z info: New WebSocket connection established: Chat (Client 1746680576233)
+2025-05-08T05:02:56.242Z info: Started chat process for client 1746680576233
+2025-05-08T05:02:57.968Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T05:02:58.817Z error: Chat process error: 2025-05-08 10:32:58,813 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T05:02:58.820Z error: Chat process error: 2025-05-08 10:32:58,813 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T05:02:58.821Z error: Chat process error: 2025-05-08 10:32:58,813 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:32:58,813 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: p
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: d
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:32:58,813 - __main__ - INFO - Added document for face: trail 2
+
+2025-05-08T05:02:58.822Z error: Chat process error: 2025-05-08 10:32:58,813 - __main__ - INFO - Attempting to create embeddings for 7 documents
+
+2025-05-08T05:02:59.673Z error: Chat process error: 2025-05-08 10:32:59,673 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:02:59.674Z error: Chat process error: 2025-05-08 10:32:59,673 - openai._base_client - INFO - Retrying request to /embeddings in 0.465461 seconds
+
+2025-05-08T05:03:00.461Z error: Chat process error: 2025-05-08 10:33:00,467 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:03:00.462Z error: Chat process error: 2025-05-08 10:33:00,467 - openai._base_client - INFO - Retrying request to /embeddings in 0.838600 seconds
+
+2025-05-08T05:03:02.019Z error: Chat process error: 2025-05-08 10:33:02,023 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:03:02.020Z error: Chat process error: 2025-05-08 10:33:02,026 - openai._base_client - INFO - Retrying request to /embeddings in 1.865481 seconds
+
+2025-05-08T05:03:04.156Z error: Chat process error: 2025-05-08 10:33:04,160 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:03:04.158Z error: Chat process error: 2025-05-08 10:33:04,164 - openai._base_client - INFO - Retrying request to /embeddings in 3.041953 seconds
+
+2025-05-08T05:03:07.541Z error: Chat process error: 2025-05-08 10:33:07,547 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:03:07.542Z error: Chat process error: 2025-05-08 10:33:07,547 - openai._base_client - INFO - Retrying request to /embeddings in 7.762787 seconds
+
+2025-05-08T05:03:10.536Z info: Received chat query: who was the last person to register ?
+2025-05-08T05:03:15.727Z error: Chat process error: 2025-05-08 10:33:15,734 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:03:15.729Z error: Chat process error: 2025-05-08 10:33:15,736 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+2025-05-08T05:03:15.729Z error: Chat process error: 2025-05-08 10:33:15,736 - __main__ - WARNING - Rate limit hit, waiting before retry...
+
+2025-05-08T05:03:15.730Z info: Chat process output: {"type":"system","message":"Using simple storage mode for 7 faces due to API limitations."}
+2025-05-08T05:03:15.730Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T05:03:15.732Z error: Chat process error: 2025-05-08 10:33:15,736 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:33:15,736 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T05:03:17.062Z error: Chat process error: 2025-05-08 10:33:17,066 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:03:17.083Z error: Chat process error: 2025-05-08 10:33:17,088 - __main__ - INFO - Query: who was the last person to register ?, Answer: The last person to register was d, with an ID of 4, registered at 2025-05-07 13:59:14.
+
+2025-05-08T05:03:17.084Z info: Chat process output: {"type":"response","answer":"The last person to register was d, with an ID of 4, registered at 2025-05-07 13:59:14."}
+2025-05-08T05:03:27.965Z info: WebSocket chat connection closed for client 1746680576233
+2025-05-08T05:03:27.965Z info: Terminated chat process for client 1746680576233
+2025-05-08T05:03:27.970Z info: Retrieved 7 registered faces
+2025-05-08T05:03:27.976Z info: Chat process closed with code null
+2025-05-08T05:03:27.980Z info: Retrieved 7 registered faces
+2025-05-08T05:03:33.912Z info: New WebSocket connection established: Chat (Client 1746680613912)
+2025-05-08T05:03:33.920Z info: Started chat process for client 1746680613912
+2025-05-08T05:03:33.922Z info: WebSocket chat connection closed for client 1746680613912
+2025-05-08T05:03:33.922Z info: Terminated chat process for client 1746680613912
+2025-05-08T05:03:33.923Z info: Chat process closed with code null
+2025-05-08T05:03:33.930Z info: New WebSocket connection established: Chat (Client 1746680613930)
+2025-05-08T05:03:33.937Z info: Started chat process for client 1746680613930
+2025-05-08T05:03:35.677Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T05:03:36.511Z error: Chat process error: 2025-05-08 10:33:36,510 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T05:03:36.512Z error: Chat process error: 2025-05-08 10:33:36,510 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T05:03:36.512Z error: Chat process error: 2025-05-08 10:33:36,510 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:33:36,510 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: p
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: Sleepy Poorvika
+
+2025-05-08T05:03:36.513Z error: Chat process error: 2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: d
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:33:36,510 - __main__ - INFO - Added document for face: trail 2
+
+2025-05-08T05:03:36.513Z error: Chat process error: 2025-05-08 10:33:36,510 - __main__ - INFO - Attempting to create embeddings for 7 documents
+
+2025-05-08T05:03:37.231Z error: Chat process error: 2025-05-08 10:33:37,237 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:03:37.232Z error: Chat process error: 2025-05-08 10:33:37,237 - openai._base_client - INFO - Retrying request to /embeddings in 0.488745 seconds
+
+2025-05-08T05:03:38.050Z error: Chat process error: 2025-05-08 10:33:38,055 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:03:38.051Z error: Chat process error: 2025-05-08 10:33:38,058 - openai._base_client - INFO - Retrying request to /embeddings in 0.780965 seconds
+
+2025-05-08T05:03:39.177Z error: Chat process error: 2025-05-08 10:33:39,184 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:03:39.183Z error: Chat process error: 2025-05-08 10:33:39,184 - openai._base_client - INFO - Retrying request to /embeddings in 1.826122 seconds
+
+2025-05-08T05:03:41.328Z error: Chat process error: 2025-05-08 10:33:41,331 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:03:41.329Z error: Chat process error: 2025-05-08 10:33:41,335 - openai._base_client - INFO - Retrying request to /embeddings in 3.061738 seconds
+
+2025-05-08T05:03:44.620Z info: Received chat query: who was the last person to register ?
+2025-05-08T05:03:44.786Z error: Chat process error: 2025-05-08 10:33:44,783 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:03:44.787Z error: Chat process error: 2025-05-08 10:33:44,783 - openai._base_client - INFO - Retrying request to /embeddings in 6.895365 seconds
+
+2025-05-08T05:03:52.080Z error: Chat process error: 2025-05-08 10:33:52,085 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:03:52.083Z error: Chat process error: 2025-05-08 10:33:52,089 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+2025-05-08T05:03:52.085Z error: Chat process error: 2025-05-08 10:33:52,089 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:33:52,089 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:33:52,089 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T05:03:52.087Z info: Chat process output: {"type":"system","message":"Using simple storage mode for 7 faces due to API limitations."}
+2025-05-08T05:03:52.088Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T05:03:53.736Z error: Chat process error: 2025-05-08 10:33:53,742 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:03:53.756Z error: Chat process error: 2025-05-08 10:33:53,761 - __main__ - INFO - Query: who was the last person to register ?, Answer: The last person to register was d, who registered at 2025-05-07 13:59:14.
+
+2025-05-08T05:03:53.757Z info: Chat process output: {"type":"response","answer":"The last person to register was d, who registered at 2025-05-07 13:59:14."}
+2025-05-08T05:04:05.901Z info: Received chat query: when did trail 2 register?
+2025-05-08T05:04:05.902Z error: Chat process error: 2025-05-08 10:34:05,901 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T05:04:07.445Z error: Chat process error: 2025-05-08 10:34:07,447 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:04:07.449Z error: Chat process error: 2025-05-08 10:34:07,450 - __main__ - INFO - Query: when did trail 2 register?, Answer: Trail 2 registered on May 8, 2025, at 05:02:48.
+
+2025-05-08T05:04:07.450Z info: Chat process output: {"type":"response","answer":"Trail 2 registered on May 8, 2025, at 05:02:48."}
+2025-05-08T05:07:05.676Z info: WebSocket chat connection closed for client 1746680613930
+2025-05-08T05:07:05.678Z info: Terminated chat process for client 1746680613930
+2025-05-08T05:07:05.685Z info: Chat process closed with code null
+2025-05-08T05:07:07.426Z info: New WebSocket connection established: Recognition (Client 1746680827426)
+2025-05-08T05:07:07.441Z info: Started recognition process for client 1746680827426
+2025-05-08T05:07:08.946Z error: Invalid JSON from recognition process: 2025-05-08 10:37:08,941 - __main__ - INFO - Loaded 7 known faces from database
+2025-05-08T05:07:08.947Z error: Invalid JSON from recognition process: 2025-05-08 10:37:08,941 - __main__ - INFO - Face Recognition Server initialized with 7 known faces
+2025-05-08T05:07:09.416Z error: Invalid JSON from recognition process: 2025-05-08 10:37:09,401 - __main__ - INFO - No faces detected in frame
+2025-05-08T05:07:10.413Z error: Invalid JSON from recognition process: 2025-05-08 10:37:10,408 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:07:10.414Z error: Invalid JSON from recognition process: 2025-05-08 10:37:10,408 - __main__ - INFO - Face locations: [(55, 93, 98, 50)]
+2025-05-08T05:07:10.694Z error: Invalid JSON from recognition process: 2025-05-08 10:37:10,690 - __main__ - INFO - Recognized 1 faces in 0.29 seconds
+2025-05-08T05:07:11.409Z error: Invalid JSON from recognition process: 2025-05-08 10:37:11,407 - __main__ - INFO - No faces detected in frame
+2025-05-08T05:07:12.412Z error: Invalid JSON from recognition process: 2025-05-08 10:37:12,411 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:07:12.413Z error: Invalid JSON from recognition process: 2025-05-08 10:37:12,411 - __main__ - INFO - Face locations: [(55, 95, 107, 43)]
+2025-05-08T05:07:12.712Z error: Invalid JSON from recognition process: 2025-05-08 10:37:12,701 - __main__ - INFO - Recognized 1 faces in 0.30 seconds
+2025-05-08T05:07:13.391Z error: Invalid JSON from recognition process: 2025-05-08 10:37:13,384 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:07:13.391Z error: Invalid JSON from recognition process: 2025-05-08 10:37:13,384 - __main__ - INFO - Face locations: [(55, 95, 107, 43)]
+2025-05-08T05:07:13.686Z error: Invalid JSON from recognition process: 2025-05-08 10:37:13,686 - __main__ - INFO - Recognized 1 faces in 0.31 seconds
+2025-05-08T05:07:17.219Z info: Retrieved 7 registered faces
+2025-05-08T05:07:17.223Z info: Retrieved 7 registered faces
+2025-05-08T05:07:19.352Z info: WebSocket recognition connection closed for client 1746680827426
+2025-05-08T05:07:19.353Z info: Terminated recognition process for client 1746680827426
+2025-05-08T05:07:19.358Z info: Recognition process closed with code null
+2025-05-08T05:07:19.394Z info: Retrieved 7 registered faces
+2025-05-08T05:07:19.398Z info: Retrieved 7 registered faces
+2025-05-08T05:07:45.262Z info: Retrieved 7 registered faces
+2025-05-08T05:07:45.264Z info: Retrieved 7 registered faces
+2025-05-08T05:07:47.119Z info: New WebSocket connection established: Chat (Client 1746680867119)
+2025-05-08T05:07:47.125Z info: Started chat process for client 1746680867119
+2025-05-08T05:07:47.127Z info: WebSocket chat connection closed for client 1746680867119
+2025-05-08T05:07:47.128Z info: Terminated chat process for client 1746680867119
+2025-05-08T05:07:47.129Z info: Chat process closed with code null
+2025-05-08T05:07:47.152Z info: New WebSocket connection established: Chat (Client 1746680867152)
+2025-05-08T05:07:47.156Z info: Started chat process for client 1746680867152
+2025-05-08T05:07:48.929Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T05:07:49.778Z error: Chat process error: 2025-05-08 10:37:49,774 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T05:07:49.779Z error: Chat process error: 2025-05-08 10:37:49,774 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 10:37:49,774 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:37:49,774 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: p
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: Sleepy Poorvika
+
+2025-05-08T05:07:49.780Z error: Chat process error: 2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: d
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:37:49,774 - __main__ - INFO - Added document for face: trail 2
+2025-05-08 10:37:49,774 - __main__ - INFO - Attempting to create embeddings for 7 documents
+
+2025-05-08T05:07:51.095Z error: Chat process error: 2025-05-08 10:37:51,086 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:07:51.096Z error: Chat process error: 2025-05-08 10:37:51,086 - openai._base_client - INFO - Retrying request to /embeddings in 0.442365 seconds
+
+2025-05-08T05:07:51.911Z error: Chat process error: 2025-05-08 10:37:51,907 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:07:51.915Z error: Chat process error: 2025-05-08 10:37:51,913 - openai._base_client - INFO - Retrying request to /embeddings in 0.844000 seconds
+
+2025-05-08T05:07:53.650Z error: Chat process error: 2025-05-08 10:37:53,638 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:07:53.651Z error: Chat process error: 2025-05-08 10:37:53,638 - openai._base_client - INFO - Retrying request to /embeddings in 1.504696 seconds
+
+2025-05-08T05:07:55.497Z error: Chat process error: 2025-05-08 10:37:55,492 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:07:55.498Z error: Chat process error: 2025-05-08 10:37:55,492 - openai._base_client - INFO - Retrying request to /embeddings in 3.179430 seconds
+
+2025-05-08T05:07:59.080Z error: Chat process error: 2025-05-08 10:37:59,079 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:07:59.081Z error: Chat process error: 2025-05-08 10:37:59,081 - openai._base_client - INFO - Retrying request to /embeddings in 7.248716 seconds
+
+2025-05-08T05:08:02.360Z info: Received chat query: how many people are currently registered?
+2025-05-08T05:08:06.860Z error: Chat process error: 2025-05-08 10:38:06,860 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:08:06.862Z error: Chat process error: 2025-05-08 10:38:06,864 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+2025-05-08T05:08:06.864Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T05:08:06.865Z error: Chat process error: 2025-05-08 10:38:06,864 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:38:06,864 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:38:06,864 - __main__ - INFO - Using simple storage mode for 7 faces due to API limitations.
+2025-05-08 10:38:06,866 - __main__ - INFO - Used simple retrieval, found 7 documents
+
+2025-05-08T05:08:08.193Z error: Chat process error: 2025-05-08 10:38:08,179 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:08:08.219Z error: Chat process error: 2025-05-08 10:38:08,220 - __main__ - INFO - Query: how many people are currently registered?, Answer: There are currently 7 people registered.
+
+2025-05-08T05:08:08.220Z info: Chat process output: {"type":"response","answer":"There are currently 7 people registered."}
+2025-05-08T05:08:56.227Z info: Received chat query: who was the last person to register ?
+2025-05-08T05:08:56.228Z error: Chat process error: 2025-05-08 10:38:56,228 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T05:08:57.448Z error: Chat process error: 2025-05-08 10:38:57,450 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:08:57.452Z error: Chat process error: 2025-05-08 10:38:57,450 - __main__ - INFO - Query: who was the last person to register ?, Answer: The last person to register was trail, who registered on 2025-05-08 at 04:23:12.
+
+2025-05-08T05:08:57.453Z info: Chat process output: {"type":"response","answer":"The last person to register was trail, who registered on 2025-05-08 at 04:23:12."}
+2025-05-08T05:09:02.971Z info: WebSocket chat connection closed for client 1746680867152
+2025-05-08T05:09:02.973Z info: Terminated chat process for client 1746680867152
+2025-05-08T05:09:02.977Z info: Retrieved 7 registered faces
+2025-05-08T05:09:02.981Z info: Chat process closed with code null
+2025-05-08T05:09:02.983Z info: Retrieved 7 registered faces
+2025-05-08T05:09:06.090Z info: New WebSocket connection established: Chat (Client 1746680946090)
+2025-05-08T05:09:06.098Z info: Started chat process for client 1746680946090
+2025-05-08T05:09:06.101Z info: WebSocket chat connection closed for client 1746680946090
+2025-05-08T05:09:06.101Z info: Terminated chat process for client 1746680946090
+2025-05-08T05:09:06.103Z info: Chat process closed with code null
+2025-05-08T05:09:06.115Z info: New WebSocket connection established: Chat (Client 1746680946115)
+2025-05-08T05:09:06.123Z info: Started chat process for client 1746680946115
+2025-05-08T05:09:07.834Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T05:09:08.644Z error: Chat process error: 2025-05-08 10:39:08,636 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T05:09:08.644Z error: Chat process error: 2025-05-08 10:39:08,636 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T05:09:08.645Z error: Chat process error: 2025-05-08 10:39:08,636 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:39:08,636 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: p
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: d
+
+2025-05-08T05:09:08.646Z error: Chat process error: 2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:39:08,636 - __main__ - INFO - Added document for face: trail 2
+2025-05-08 10:39:08,636 - __main__ - INFO - Attempting to create embeddings for 7 documents
+
+2025-05-08T05:09:09.226Z error: Chat process error: 2025-05-08 10:39:09,224 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:09:09.227Z error: Chat process error: 2025-05-08 10:39:09,224 - openai._base_client - INFO - Retrying request to /embeddings in 0.383221 seconds
+
+2025-05-08T05:09:10.453Z error: Chat process error: 2025-05-08 10:39:10,447 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:09:10.457Z error: Chat process error: 2025-05-08 10:39:10,447 - openai._base_client - INFO - Retrying request to /embeddings in 0.787558 seconds
+
+2025-05-08T05:09:11.581Z error: Chat process error: 2025-05-08 10:39:11,566 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:09:11.582Z error: Chat process error: 2025-05-08 10:39:11,581 - openai._base_client - INFO - Retrying request to /embeddings in 1.831026 seconds
+
+2025-05-08T05:09:13.733Z error: Chat process error: 2025-05-08 10:39:13,732 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:09:13.734Z error: Chat process error: 2025-05-08 10:39:13,732 - openai._base_client - INFO - Retrying request to /embeddings in 3.945146 seconds
+
+2025-05-08T05:09:18.850Z error: Chat process error: 2025-05-08 10:39:18,845 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:09:18.852Z error: Chat process error: 2025-05-08 10:39:18,845 - openai._base_client - INFO - Retrying request to /embeddings in 6.373697 seconds
+
+2025-05-08T05:09:22.115Z info: Received chat query: who was the last person to register?
+2025-05-08T05:09:25.815Z error: Chat process error: 2025-05-08 10:39:25,814 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:09:25.817Z error: Chat process error: 2025-05-08 10:39:25,816 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+2025-05-08T05:09:25.818Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T05:09:25.819Z error: Chat process error: 2025-05-08 10:39:25,816 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 10:39:25,816 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:39:25,816 - __main__ - INFO - Using simple storage mode for 7 faces due to API limitations.
+2025-05-08 10:39:25,816 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T05:09:27.452Z error: Chat process error: 2025-05-08 10:39:27,452 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:09:27.473Z error: Chat process error: 2025-05-08 10:39:27,471 - __main__ - INFO - Query: who was the last person to register?, Answer: The last person to register was "trail 2," who registered on 2025-05-08 at 05:02:48.
+
+2025-05-08T05:09:27.474Z info: Chat process output: {"type":"response","answer":"The last person to register was \"trail 2,\" who registered on 2025-05-08 at 05:02:48."}
+2025-05-08T05:09:51.625Z info: WebSocket chat connection closed for client 1746680946115
+2025-05-08T05:09:51.626Z info: Terminated chat process for client 1746680946115
+2025-05-08T05:09:51.630Z info: Chat process closed with code null
+2025-05-08T05:09:51.658Z info: Retrieved 7 registered faces
+2025-05-08T05:09:51.662Z info: Retrieved 7 registered faces
+2025-05-08T05:09:53.929Z info: New WebSocket connection established: Chat (Client 1746680993929)
+2025-05-08T05:09:53.938Z info: Started chat process for client 1746680993929
+2025-05-08T05:09:53.940Z info: WebSocket chat connection closed for client 1746680993929
+2025-05-08T05:09:53.941Z info: Terminated chat process for client 1746680993929
+2025-05-08T05:09:53.942Z info: Chat process closed with code null
+2025-05-08T05:09:53.949Z info: New WebSocket connection established: Chat (Client 1746680993949)
+2025-05-08T05:09:53.956Z info: Started chat process for client 1746680993949
+2025-05-08T05:09:55.679Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T05:09:56.499Z error: Chat process error: 2025-05-08 10:39:56,487 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T05:09:56.500Z error: Chat process error: 2025-05-08 10:39:56,487 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T05:09:56.501Z error: Chat process error: 2025-05-08 10:39:56,501 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:39:56,501 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+
+2025-05-08T05:09:56.501Z error: Chat process error: 2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: p
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: d
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: pichi
+
+2025-05-08T05:09:56.502Z error: Chat process error: 2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:39:56,501 - __main__ - INFO - Added document for face: trail 2
+2025-05-08 10:39:56,501 - __main__ - INFO - Attempting to create embeddings for 7 documents
+
+2025-05-08T05:09:57.119Z info: Received chat query: who was the last person to register?
+2025-05-08T05:09:57.150Z error: Chat process error: 2025-05-08 10:39:57,142 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:09:57.150Z error: Chat process error: 2025-05-08 10:39:57,150 - openai._base_client - INFO - Retrying request to /embeddings in 0.385279 seconds
+
+2025-05-08T05:09:57.863Z error: Chat process error: 2025-05-08 10:39:57,851 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:09:57.866Z error: Chat process error: 2025-05-08 10:39:57,864 - openai._base_client - INFO - Retrying request to /embeddings in 0.795367 seconds
+
+2025-05-08T05:09:58.991Z error: Chat process error: 2025-05-08 10:39:58,986 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:09:58.992Z error: Chat process error: 2025-05-08 10:39:58,992 - openai._base_client - INFO - Retrying request to /embeddings in 1.680766 seconds
+
+2025-05-08T05:10:01.039Z error: Chat process error: 2025-05-08 10:40:01,036 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:10:01.041Z error: Chat process error: 2025-05-08 10:40:01,040 - openai._base_client - INFO - Retrying request to /embeddings in 3.391579 seconds
+
+2025-05-08T05:10:05.039Z error: Chat process error: 2025-05-08 10:40:05,037 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:10:05.041Z error: Chat process error: 2025-05-08 10:40:05,037 - openai._base_client - INFO - Retrying request to /embeddings in 7.658200 seconds
+
+2025-05-08T05:10:13.006Z error: Chat process error: 2025-05-08 10:40:13,006 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:10:13.009Z error: Chat process error: 2025-05-08 10:40:13,006 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:40:13,010 - __main__ - WARNING - Rate limit hit, waiting before retry...
+
+2025-05-08T05:10:13.011Z info: Chat process output: {"type":"system","message":"Chat system is ready. "}
+2025-05-08T05:10:13.016Z error: Chat process error: 2025-05-08 10:40:13,010 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:40:13,010 - __main__ - INFO - Using simple storage mode for 7 faces due to API limitations.
+2025-05-08 10:40:13,012 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T05:10:14.419Z error: Chat process error: 2025-05-08 10:40:14,416 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:10:14.438Z error: Chat process error: 2025-05-08 10:40:14,439 - __main__ - INFO - Query: who was the last person to register?, Answer: The last person to register was "trail" on 2025-05-08 at 04:23:12.
+
+2025-05-08T05:10:14.439Z info: Chat process output: {"type":"response","answer":"The last person to register was \"trail\" on 2025-05-08 at 04:23:12."}
+2025-05-08T05:10:37.946Z info: Received chat query: who was the last person to register?
+2025-05-08T05:10:37.952Z error: Chat process error: 2025-05-08 10:40:37,954 - __main__ - INFO - Used simple retrieval, found 3 documents
+
+2025-05-08T05:10:39.030Z error: Chat process error: 2025-05-08 10:40:39,019 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:10:39.035Z error: Chat process error: 2025-05-08 10:40:39,035 - __main__ - INFO - Query: who was the last person to register?, Answer: The last person to register was pichi, who registered at 2025-05-07 17:18:44.
+
+2025-05-08T05:10:39.036Z info: Chat process output: {"type":"response","answer":"The last person to register was pichi, who registered at 2025-05-07 17:18:44."}
+2025-05-08T05:16:09.224Z info: WebSocket chat connection closed for client 1746680993949
+2025-05-08T05:16:09.225Z info: Terminated chat process for client 1746680993949
+2025-05-08T05:16:09.230Z info: Chat process closed with code null
+2025-05-08T05:16:09.263Z info: Retrieved 7 registered faces
+2025-05-08T05:16:09.268Z info: Retrieved 7 registered faces
+2025-05-08T05:16:11.632Z info: New WebSocket connection established: Chat (Client 1746681371632)
+2025-05-08T05:16:11.641Z info: Started chat process for client 1746681371632
+2025-05-08T05:16:11.644Z info: WebSocket chat connection closed for client 1746681371632
+2025-05-08T05:16:11.645Z info: Terminated chat process for client 1746681371632
+2025-05-08T05:16:11.646Z info: Chat process closed with code null
+2025-05-08T05:16:11.649Z info: New WebSocket connection established: Chat (Client 1746681371649)
+2025-05-08T05:16:11.655Z info: Started chat process for client 1746681371649
+2025-05-08T05:16:13.455Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T05:16:14.308Z error: Chat process error: 2025-05-08 10:46:14,306 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T05:16:14.309Z error: Chat process error: 2025-05-08 10:46:14,306 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T05:16:14.309Z error: Chat process error: 2025-05-08 10:46:14,306 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:46:14,306 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: p
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: Sleepy Poorvika
+
+2025-05-08T05:16:14.310Z error: Chat process error: 2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: d
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: trail
+2025-05-08 10:46:14,306 - __main__ - INFO - Added document for face: trail 2
+2025-05-08 10:46:14,306 - __main__ - INFO - Attempting to create embeddings for 7 documents
+
+2025-05-08T05:16:14.774Z info: Received chat query: who was the last person to register?
+2025-05-08T05:16:15.012Z error: Chat process error: 2025-05-08 10:46:15,009 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:16:15.014Z error: Chat process error: 2025-05-08 10:46:15,009 - openai._base_client - INFO - Retrying request to /embeddings in 0.458826 seconds
+
+2025-05-08T05:16:16.316Z error: Chat process error: 2025-05-08 10:46:16,319 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:16:16.318Z error: Chat process error: 2025-05-08 10:46:16,319 - openai._base_client - INFO - Retrying request to /embeddings in 0.944157 seconds
+
+2025-05-08T05:16:17.636Z error: Chat process error: 2025-05-08 10:46:17,636 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-05-08 10:46:17,636 - openai._base_client - INFO - Retrying request to /embeddings in 1.777015 seconds
+
+2025-05-08T05:16:20.155Z error: Chat process error: 2025-05-08 10:46:20,156 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:16:20.156Z error: Chat process error: 2025-05-08 10:46:20,156 - openai._base_client - INFO - Retrying request to /embeddings in 3.552758 seconds
+
+2025-05-08T05:16:24.498Z error: Chat process error: 2025-05-08 10:46:24,489 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:16:24.504Z error: Chat process error: 2025-05-08 10:46:24,506 - openai._base_client - INFO - Retrying request to /embeddings in 6.185104 seconds
+
+2025-05-08T05:16:31.250Z error: Chat process error: 2025-05-08 10:46:31,246 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:16:31.253Z error: Chat process error: 2025-05-08 10:46:31,254 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:46:31,254 - __main__ - WARNING - Rate limit hit, waiting before retry...
+
+2025-05-08T05:16:31.254Z info: Chat process output: {"type":"system","message":"Unable to initialize the chat system due to API limitations. Please try again later or contact the administrator."}
+2025-05-08T05:16:31.255Z info: Chat process output: {"type":"system","message":"Chat system initialized, but no face data is available. Please register faces first."}
+2025-05-08T05:16:31.256Z info: Chat process output: {"type":"response","answer":"The chat system is not fully initialized due to API limitations. Please try again later."}
+2025-05-08T05:16:31.257Z error: Chat process error: 2025-05-08 10:46:31,254 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:46:31,254 - __main__ - WARNING - No vector store available to query
+
+2025-05-08T05:17:33.217Z info: WebSocket chat connection closed for client 1746681371649
+2025-05-08T05:17:33.217Z info: Terminated chat process for client 1746681371649
+2025-05-08T05:17:33.223Z info: Chat process closed with code null
+2025-05-08T05:17:33.260Z info: Retrieved 7 registered faces
+2025-05-08T05:17:33.263Z info: Retrieved 7 registered faces
+2025-05-08T05:17:35.070Z info: New WebSocket connection established: Chat (Client 1746681455070)
+2025-05-08T05:17:35.079Z info: Started chat process for client 1746681455070
+2025-05-08T05:17:35.084Z info: WebSocket chat connection closed for client 1746681455070
+2025-05-08T05:17:35.087Z info: Terminated chat process for client 1746681455070
+2025-05-08T05:17:35.090Z info: New WebSocket connection established: Chat (Client 1746681455090)
+2025-05-08T05:17:35.098Z info: Started chat process for client 1746681455090
+2025-05-08T05:17:35.099Z info: Chat process closed with code null
+2025-05-08T05:17:36.828Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T05:17:37.636Z error: Chat process error: 2025-05-08 10:47:37,633 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T05:17:37.637Z error: Chat process error: 2025-05-08 10:47:37,633 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T05:17:37.638Z error: Chat process error: 2025-05-08 10:47:37,633 - __main__ - INFO - Found 7 faces in database
+2025-05-08 10:47:37,633 - __main__ - INFO - Sample face: ID=1, Name=Poorvika, Timestamp=2025-05-07 10:03:12
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: Poorvika
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: p
+
+2025-05-08T05:17:37.638Z error: Chat process error: 2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: Sleepy Poorvika
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: d
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: pichi
+2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: trail
+
+2025-05-08T05:17:37.639Z error: Chat process error: 2025-05-08 10:47:37,638 - __main__ - INFO - Added document for face: trail 2
+
+2025-05-08T05:17:37.639Z error: Chat process error: 2025-05-08 10:47:37,638 - __main__ - INFO - Attempting to create embeddings for 7 documents
+
+2025-05-08T05:17:38.282Z info: Received chat query: who was the last person to register?
+2025-05-08T05:17:38.371Z error: Chat process error: 2025-05-08 10:47:38,368 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:17:38.372Z error: Chat process error: 2025-05-08 10:47:38,368 - openai._base_client - INFO - Retrying request to /embeddings in 0.397176 seconds
+
+2025-05-08T05:17:39.085Z error: Chat process error: 2025-05-08 10:47:39,077 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:17:39.089Z error: Chat process error: 2025-05-08 10:47:39,088 - openai._base_client - INFO - Retrying request to /embeddings in 0.751653 seconds
+
+2025-05-08T05:17:40.212Z error: Chat process error: 2025-05-08 10:47:40,210 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:17:40.213Z error: Chat process error: 2025-05-08 10:47:40,212 - openai._base_client - INFO - Retrying request to /embeddings in 1.522622 seconds
+
+2025-05-08T05:17:42.056Z error: Chat process error: 2025-05-08 10:47:42,054 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:17:42.058Z error: Chat process error: 2025-05-08 10:47:42,054 - openai._base_client - INFO - Retrying request to /embeddings in 3.284136 seconds
+
+2025-05-08T05:17:45.743Z error: Chat process error: 2025-05-08 10:47:45,742 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:17:45.744Z error: Chat process error: 2025-05-08 10:47:45,742 - openai._base_client - INFO - Retrying request to /embeddings in 6.760732 seconds
+
+2025-05-08T05:17:52.909Z error: Chat process error: 2025-05-08 10:47:52,905 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:17:52.912Z error: Chat process error: 2025-05-08 10:47:52,905 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-08 10:47:52,905 - __main__ - WARNING - Rate limit hit, waiting before retry...
+
+2025-05-08T05:17:52.914Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T05:17:52.916Z error: Chat process error: 2025-05-08 10:47:52,912 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+2025-05-08 10:47:52,912 - __main__ - INFO - Using simple storage mode for 7 faces due to API limitations.
+2025-05-08 10:47:52,912 - __main__ - INFO - Used simple retrieval, found 7 documents
+
+2025-05-08T05:17:52.923Z error: Chat process error: 2025-05-08 10:47:52,920 - __main__ - INFO - Selected most recent document: Name: trail 2, Registered at: 2025-05-08 05:02:48, ID: 7
+
+2025-05-08T05:17:54.040Z error: Chat process error: 2025-05-08 10:47:54,037 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:17:54.048Z error: Chat process error: 2025-05-08 10:47:54,037 - __main__ - INFO - Query: who was the last person to register?, Answer: The last person to register was associated with the name "trail 2," and they registered on May 8, 2025.
+
+2025-05-08T05:17:54.049Z info: Chat process output: {"type":"response","answer":"The last person to register was associated with the name \"trail 2,\" and they registered on May 8, 2025."}
+2025-05-08T05:18:19.063Z info: Received chat query: How many people are currently registered?
+2025-05-08T05:18:19.065Z error: Chat process error: 2025-05-08 10:48:19,062 - __main__ - INFO - Used simple retrieval, found 7 documents
+
+2025-05-08T05:18:19.779Z error: Chat process error: 2025-05-08 10:48:19,768 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:18:19.817Z error: Chat process error: 2025-05-08 10:48:19,809 - __main__ - INFO - Query: How many people are currently registered?, Answer: There are currently 7 people registered.
+
+2025-05-08T05:18:19.820Z info: Chat process output: {"type":"response","answer":"There are currently 7 people registered."}
+2025-05-08T05:18:27.494Z info: Received chat query: who was the last person to register?
+2025-05-08T05:18:27.496Z error: Chat process error: 2025-05-08 10:48:27,495 - __main__ - INFO - Used simple retrieval, found 7 documents
+
+2025-05-08T05:18:27.496Z error: Chat process error: 2025-05-08 10:48:27,496 - __main__ - INFO - Selected most recent document: Name: trail 2, Registered at: 2025-05-08 05:02:48, ID: 7
+
+2025-05-08T05:18:28.632Z error: Chat process error: 2025-05-08 10:48:28,630 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:18:28.635Z error: Chat process error: 2025-05-08 10:48:28,634 - __main__ - INFO - Query: who was the last person to register?, Answer: The last person to register was associated with the name "trail 2," registered on 2025-05-08.
+
+2025-05-08T05:18:28.635Z info: Chat process output: {"type":"response","answer":"The last person to register was associated with the name \"trail 2,\" registered on 2025-05-08."}
+2025-05-08T05:18:33.036Z info: WebSocket chat connection closed for client 1746681455090
+2025-05-08T05:18:33.036Z info: Terminated chat process for client 1746681455090
+2025-05-08T05:18:33.043Z info: Chat process closed with code null
+2025-05-08T05:18:33.776Z info: Retrieved 7 registered faces
+2025-05-08T05:18:33.782Z info: Retrieved 7 registered faces
+2025-05-08T05:42:01.985Z info: Database initialized successfully
+2025-05-08T05:42:01.990Z info: Server running on port 5000
+2025-05-08T05:42:01.990Z info: WebSocket server is ready for face recognition and chat
+2025-05-08T05:42:28.786Z info: Retrieved 0 registered faces
+2025-05-08T05:42:28.793Z info: Retrieved 0 registered faces
+2025-05-08T05:47:25.373Z info: Database initialized successfully
+2025-05-08T05:47:25.376Z info: Server running on port 5000
+2025-05-08T05:47:25.376Z info: WebSocket server is ready for face recognition and chat
+2025-05-08T05:47:39.548Z info: Retrieved 0 registered faces
+2025-05-08T05:47:39.555Z info: Retrieved 0 registered faces
+2025-05-08T05:47:47.235Z info: New WebSocket connection established: Chat (Client 1746683267234)
+2025-05-08T05:47:47.255Z info: Started chat process for client 1746683267234
+2025-05-08T05:47:47.261Z info: WebSocket chat connection closed for client 1746683267234
+2025-05-08T05:47:47.262Z info: Terminated chat process for client 1746683267234
+2025-05-08T05:47:47.264Z info: New WebSocket connection established: Chat (Client 1746683267264)
+2025-05-08T05:47:47.271Z info: Started chat process for client 1746683267264
+2025-05-08T05:47:47.274Z info: Chat process closed with code null
+2025-05-08T05:47:49.022Z info: WebSocket chat connection closed for client 1746683267264
+2025-05-08T05:47:49.022Z info: Terminated chat process for client 1746683267264
+2025-05-08T05:47:49.025Z info: Retrieved 0 registered faces
+2025-05-08T05:47:49.027Z info: Chat process closed with code null
+2025-05-08T05:47:49.029Z info: Retrieved 0 registered faces
+2025-05-08T05:48:08.471Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746683288468.jpg
+2025-05-08T05:48:10.581Z error: Python stderr: 2025-05-08 11:18:10,064 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746683288468.jpg
+2025-05-08 11:18:10,245 - __main__ - INFO - Generating face encoding for C Poorvika Gowda
+2025-05-08 11:18:10,513 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746683288468_verified.jpg
+
+2025-05-08T05:48:10.594Z info: Successfully registered face for C Poorvika Gowda
+2025-05-08T05:48:10.600Z info: Retrieved 1 registered faces
+2025-05-08T05:49:06.154Z info: Saved image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746683346152.jpg
+2025-05-08T05:49:08.116Z error: Python stderr: 2025-05-08 11:19:07,565 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746683346152.jpg
+2025-05-08 11:19:07,748 - __main__ - INFO - Generating face encoding for mokshitha
+2025-05-08 11:19:08,032 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746683346152_verified.jpg
+
+2025-05-08T05:49:08.132Z info: Successfully registered face for mokshitha
+2025-05-08T05:49:08.139Z info: Retrieved 2 registered faces
+2025-05-08T05:50:10.038Z info: New WebSocket connection established: Recognition (Client 1746683410038)
+2025-05-08T05:50:10.052Z info: Started recognition process for client 1746683410038
+2025-05-08T05:50:11.582Z error: Invalid JSON from recognition process: 2025-05-08 11:20:11,581 - __main__ - INFO - Loaded 2 known faces from database
+2025-05-08T05:50:11.582Z error: Invalid JSON from recognition process: 2025-05-08 11:20:11,582 - __main__ - INFO - Face Recognition Server initialized with 2 known faces
+2025-05-08T05:50:11.877Z error: Invalid JSON from recognition process: 2025-05-08 11:20:11,877 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:11.878Z error: Invalid JSON from recognition process: 2025-05-08 11:20:11,877 - __main__ - INFO - Face locations: [(49, 101, 101, 49)]
+2025-05-08T05:50:12.166Z error: Invalid JSON from recognition process: 2025-05-08 11:20:12,165 - __main__ - INFO - Recognized 1 faces in 0.30 seconds
+2025-05-08T05:50:12.853Z error: Invalid JSON from recognition process: 2025-05-08 11:20:12,852 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:12.853Z error: Invalid JSON from recognition process: 2025-05-08 11:20:12,852 - __main__ - INFO - Face locations: [(49, 101, 101, 49)]
+2025-05-08T05:50:13.141Z error: Invalid JSON from recognition process: 2025-05-08 11:20:13,141 - __main__ - INFO - Recognized 1 faces in 0.30 seconds
+2025-05-08T05:50:13.863Z error: Invalid JSON from recognition process: 2025-05-08 11:20:13,862 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:13.864Z error: Invalid JSON from recognition process: 2025-05-08 11:20:13,862 - __main__ - INFO - Face locations: [(49, 101, 101, 49)]
+2025-05-08T05:50:14.146Z error: Invalid JSON from recognition process: 2025-05-08 11:20:14,146 - __main__ - INFO - Recognized 1 faces in 0.29 seconds
+2025-05-08T05:50:14.852Z error: Invalid JSON from recognition process: 2025-05-08 11:20:14,852 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:14.853Z error: Invalid JSON from recognition process: 2025-05-08 11:20:14,852 - __main__ - INFO - Face locations: [(49, 101, 101, 49)]
+2025-05-08T05:50:15.135Z error: Invalid JSON from recognition process: 2025-05-08 11:20:15,136 - __main__ - INFO - Recognized 1 faces in 0.29 seconds
+2025-05-08T05:50:15.893Z error: Invalid JSON from recognition process: 2025-05-08 11:20:15,893 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:15.894Z error: Invalid JSON from recognition process: 2025-05-08 11:20:15,893 - __main__ - INFO - Face locations: [(50, 98, 94, 55)]
+2025-05-08T05:50:16.748Z error: Invalid JSON from recognition process: 2025-05-08 11:20:16,748 - __main__ - INFO - Recognized 1 faces in 0.89 seconds
+2025-05-08T05:50:16.903Z error: Invalid JSON from recognition process: 2025-05-08 11:20:16,903 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:16.905Z error: Invalid JSON from recognition process: 2025-05-08 11:20:16,904 - __main__ - INFO - Face locations: [(50, 98, 94, 55)]
+2025-05-08T05:50:17.783Z error: Invalid JSON from recognition process: 2025-05-08 11:20:17,783 - __main__ - INFO - Recognized 1 faces in 0.93 seconds
+2025-05-08T05:50:17.884Z error: Invalid JSON from recognition process: 2025-05-08 11:20:17,884 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:17.885Z error: Invalid JSON from recognition process: 2025-05-08 11:20:17,884 - __main__ - INFO - Face locations: [(50, 98, 94, 55)]
+2025-05-08T05:50:18.751Z error: Invalid JSON from recognition process: 2025-05-08 11:20:18,750 - __main__ - INFO - Recognized 1 faces in 0.90 seconds
+2025-05-08T05:50:18.880Z error: Invalid JSON from recognition process: 2025-05-08 11:20:18,880 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:18.881Z error: Invalid JSON from recognition process: 2025-05-08 11:20:18,881 - __main__ - INFO - Face locations: [(50, 98, 94, 55)]
+2025-05-08T05:50:19.752Z error: Invalid JSON from recognition process: 2025-05-08 11:20:19,752 - __main__ - INFO - Recognized 1 faces in 0.90 seconds
+2025-05-08T05:50:19.888Z error: Invalid JSON from recognition process: 2025-05-08 11:20:19,888 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:19.889Z error: Invalid JSON from recognition process: 2025-05-08 11:20:19,888 - __main__ - INFO - Face locations: [(49, 101, 101, 49)]
+2025-05-08T05:50:20.764Z error: Invalid JSON from recognition process: 2025-05-08 11:20:20,763 - __main__ - INFO - Recognized 1 faces in 0.91 seconds
+2025-05-08T05:50:20.879Z error: Invalid JSON from recognition process: 2025-05-08 11:20:20,879 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:20.880Z error: Invalid JSON from recognition process: 2025-05-08 11:20:20,879 - __main__ - INFO - Face locations: [(49, 101, 101, 49)]
+2025-05-08T05:50:21.750Z error: Invalid JSON from recognition process: 2025-05-08 11:20:21,751 - __main__ - INFO - Recognized 1 faces in 0.91 seconds
+2025-05-08T05:50:21.890Z error: Invalid JSON from recognition process: 2025-05-08 11:20:21,890 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:21.891Z error: Invalid JSON from recognition process: 2025-05-08 11:20:21,891 - __main__ - INFO - Face locations: [(49, 101, 101, 49)]
+2025-05-08T05:50:22.789Z error: Invalid JSON from recognition process: 2025-05-08 11:20:22,789 - __main__ - INFO - Recognized 1 faces in 0.94 seconds
+2025-05-08T05:50:22.867Z error: Invalid JSON from recognition process: 2025-05-08 11:20:22,867 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:22.868Z error: Invalid JSON from recognition process: 2025-05-08 11:20:22,868 - __main__ - INFO - Face locations: [(49, 101, 101, 49)]
+2025-05-08T05:50:23.705Z error: Invalid JSON from recognition process: 2025-05-08 11:20:23,705 - __main__ - INFO - Recognized 1 faces in 0.86 seconds
+2025-05-08T05:50:39.029Z error: Invalid JSON from recognition process: 2025-05-08 11:20:39,028 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:39.030Z error: Invalid JSON from recognition process: 2025-05-08 11:20:39,028 - __main__ - INFO - Face locations: [(55, 122, 98, 79), (50, 50, 94, 7)]
+2025-05-08T05:50:40.707Z error: Invalid JSON from recognition process: 2025-05-08 11:20:40,707 - __main__ - INFO - Recognized 2 faces in 1.71 seconds
+2025-05-08T05:50:41.020Z error: Invalid JSON from recognition process: 2025-05-08 11:20:41,020 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:41.021Z error: Invalid JSON from recognition process: 2025-05-08 11:20:41,020 - __main__ - INFO - Face locations: [(55, 117, 98, 74), (50, 50, 94, 7)]
+2025-05-08T05:50:42.670Z error: Invalid JSON from recognition process: 2025-05-08 11:20:42,669 - __main__ - INFO - Recognized 2 faces in 1.67 seconds
+2025-05-08T05:50:43.032Z error: Invalid JSON from recognition process: 2025-05-08 11:20:43,032 - __main__ - INFO - Image shape: (120, 160, 3), dtype: uint8
+2025-05-08T05:50:43.032Z error: Invalid JSON from recognition process: 2025-05-08 11:20:43,032 - __main__ - INFO - Face locations: [(55, 117, 98, 74), (55, 50, 98, 7)]
+2025-05-08T05:50:44.741Z error: Invalid JSON from recognition process: 2025-05-08 11:20:44,741 - __main__ - INFO - Recognized 2 faces in 1.74 seconds
+2025-05-08T05:51:08.286Z info: New WebSocket connection established: Chat (Client 1746683468286)
+2025-05-08T05:51:08.291Z info: Started chat process for client 1746683468286
+2025-05-08T05:51:08.299Z info: WebSocket chat connection closed for client 1746683468286
+2025-05-08T05:51:08.300Z info: Terminated chat process for client 1746683468286
+2025-05-08T05:51:08.302Z info: Chat process closed with code null
+2025-05-08T05:51:09.958Z info: WebSocket recognition connection closed for client 1746683410038
+2025-05-08T05:51:09.959Z info: Terminated recognition process for client 1746683410038
+2025-05-08T05:51:09.963Z info: Recognition process closed with code null
+2025-05-08T05:51:09.988Z info: Retrieved 2 registered faces
+2025-05-08T05:51:09.993Z info: Retrieved 2 registered faces
+2025-05-08T05:51:15.850Z info: New WebSocket connection established: Chat (Client 1746683475850)
+2025-05-08T05:51:15.857Z info: Started chat process for client 1746683475850
+2025-05-08T05:51:15.859Z info: WebSocket chat connection closed for client 1746683475850
+2025-05-08T05:51:15.860Z info: Terminated chat process for client 1746683475850
+2025-05-08T05:51:15.861Z info: Chat process closed with code null
+2025-05-08T05:51:15.877Z info: New WebSocket connection established: Chat (Client 1746683475877)
+2025-05-08T05:51:15.883Z info: Started chat process for client 1746683475877
+2025-05-08T05:51:17.690Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T05:51:18.549Z error: Chat process error: 2025-05-08 11:21:18,550 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T05:51:18.550Z error: Chat process error: 2025-05-08 11:21:18,550 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+2025-05-08 11:21:18,550 - __main__ - INFO - Found 2 faces in database
+2025-05-08 11:21:18,550 - __main__ - INFO - Sample face: ID=1, Name=C Poorvika Gowda, Timestamp=2025-05-08 05:48:10
+
+2025-05-08T05:51:18.551Z error: Chat process error: 2025-05-08 11:21:18,550 - __main__ - INFO - Added document for face: C Poorvika Gowda
+2025-05-08 11:21:18,550 - __main__ - INFO - Added document for face: mokshitha
+2025-05-08 11:21:18,551 - __main__ - INFO - Attempting to create embeddings for 2 documents
+
+2025-05-08T05:51:19.367Z error: Chat process error: 2025-05-08 11:21:19,367 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:51:19.367Z error: Chat process error: 2025-05-08 11:21:19,367 - openai._base_client - INFO - Retrying request to /embeddings in 0.394667 seconds
+
+2025-05-08T05:51:20.503Z error: Chat process error: 2025-05-08 11:21:20,502 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:51:20.504Z error: Chat process error: 2025-05-08 11:21:20,504 - openai._base_client - INFO - Retrying request to /embeddings in 0.921840 seconds
+
+2025-05-08T05:51:22.142Z error: Chat process error: 2025-05-08 11:21:22,142 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:51:22.144Z error: Chat process error: 2025-05-08 11:21:22,143 - openai._base_client - INFO - Retrying request to /embeddings in 1.567023 seconds
+
+2025-05-08T05:51:24.189Z error: Chat process error: 2025-05-08 11:21:24,189 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:51:24.191Z error: Chat process error: 2025-05-08 11:21:24,190 - openai._base_client - INFO - Retrying request to /embeddings in 3.733066 seconds
+
+2025-05-08T05:51:28.490Z error: Chat process error: 2025-05-08 11:21:28,489 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:51:28.491Z error: Chat process error: 2025-05-08 11:21:28,491 - openai._base_client - INFO - Retrying request to /embeddings in 7.354544 seconds
+
+2025-05-08T05:51:36.401Z info: Received chat query: how many people have been registered ?
+2025-05-08T05:51:36.580Z error: Chat process error: 2025-05-08 11:21:36,580 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:51:36.582Z error: Chat process error: 2025-05-08 11:21:36,583 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+2025-05-08T05:51:36.583Z error: Chat process error: 2025-05-08 11:21:36,583 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 11:21:36,583 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+
+2025-05-08T05:51:36.584Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T05:51:36.585Z error: Chat process error: 2025-05-08 11:21:36,584 - __main__ - INFO - Using simple storage mode for 2 faces due to API limitations.
+2025-05-08 11:21:36,584 - __main__ - INFO - Used simple retrieval, found 2 documents
+
+2025-05-08T05:51:37.301Z error: Chat process error: 2025-05-08 11:21:37,301 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:51:37.323Z error: Chat process error: 2025-05-08 11:21:37,323 - __main__ - INFO - Query: how many people have been registered ?, Answer: Two people have been registered.
+
+2025-05-08T05:51:37.324Z info: Chat process output: {"type":"response","answer":"Two people have been registered."}
+2025-05-08T05:52:32.127Z info: Received chat query: Who was the last person to register ?
+2025-05-08T05:52:32.129Z error: Chat process error: 2025-05-08 11:22:32,128 - __main__ - INFO - Used simple retrieval, found 2 documents
+
+2025-05-08T05:52:32.138Z error: Chat process error: 2025-05-08 11:22:32,137 - __main__ - INFO - Selected most recent document: Name: mokshitha, Registered at: 2025-05-08 05:49:08, ID: 2
+
+2025-05-08T05:52:33.210Z error: Chat process error: 2025-05-08 11:22:33,209 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:52:33.213Z error: Chat process error: 2025-05-08 11:22:33,212 - __main__ - INFO - Query: Who was the last person to register ?, Answer: The information about the last person to register is not available in the database.
+
+2025-05-08T05:52:33.214Z info: Chat process output: {"type":"response","answer":"The information about the last person to register is not available in the database."}
+2025-05-08T05:52:53.662Z info: Received chat query: Who was the last person registered?
+2025-05-08T05:52:53.663Z error: Chat process error: 2025-05-08 11:22:53,662 - __main__ - INFO - Used simple retrieval, found 2 documents
+
+2025-05-08T05:52:53.663Z error: Chat process error: 2025-05-08 11:22:53,662 - __main__ - INFO - Selected most recent document: Name: mokshitha, Registered at: 2025-05-08 05:49:08, ID: 2
+
+2025-05-08T05:52:55.230Z error: Chat process error: 2025-05-08 11:22:55,228 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+2025-05-08T05:52:55.232Z error: Chat process error: 2025-05-08 11:22:55,231 - __main__ - INFO - Query: Who was the last person registered?, Answer: The last person registered is Mokshitha, with an ID of 2, on May 8, 2025.
+
+2025-05-08T05:52:55.234Z info: Chat process output: {"type":"response","answer":"The last person registered is Mokshitha, with an ID of 2, on May 8, 2025."}
+2025-05-08T05:53:21.291Z info: WebSocket chat connection closed for client 1746683475877
+2025-05-08T05:53:21.292Z info: Terminated chat process for client 1746683475877
+2025-05-08T05:53:21.295Z info: Retrieved 2 registered faces
+2025-05-08T05:53:21.299Z info: Chat process closed with code null
+2025-05-08T05:53:21.300Z info: Retrieved 2 registered faces
+2025-05-08T05:53:37.554Z info: New WebSocket connection established: Chat (Client 1746683617553)
+2025-05-08T05:53:37.561Z info: Started chat process for client 1746683617553
+2025-05-08T05:53:37.564Z info: WebSocket chat connection closed for client 1746683617553
+2025-05-08T05:53:37.565Z info: Terminated chat process for client 1746683617553
+2025-05-08T05:53:37.566Z info: Chat process closed with code null
+2025-05-08T05:53:37.575Z info: New WebSocket connection established: Chat (Client 1746683617574)
+2025-05-08T05:53:37.582Z info: Started chat process for client 1746683617574
+2025-05-08T05:53:39.420Z info: Chat process output: {"type":"system","message":"Initializing chat system with database: C:\\Users\\user\\Desktop\\GITHUB\\.Kato\\backend\\face_database.db"}
+2025-05-08T05:53:40.276Z error: Chat process error: 2025-05-08 11:23:40,275 - __main__ - INFO - Initialized OpenAI embeddings and LLM
+
+2025-05-08T05:53:40.276Z error: Chat process error: 2025-05-08 11:23:40,277 - __main__ - INFO - Connected to database at: C:\Users\user\Desktop\GITHUB\.Kato\backend\face_database.db
+
+2025-05-08T05:53:40.277Z error: Chat process error: 2025-05-08 11:23:40,277 - __main__ - INFO - Found 2 faces in database
+
+2025-05-08T05:53:40.278Z error: Chat process error: 2025-05-08 11:23:40,277 - __main__ - INFO - Sample face: ID=1, Name=C Poorvika Gowda, Timestamp=2025-05-08 05:48:10
+2025-05-08 11:23:40,278 - __main__ - INFO - Added document for face: C Poorvika Gowda
+
+2025-05-08T05:53:40.278Z error: Chat process error: 2025-05-08 11:23:40,278 - __main__ - INFO - Added document for face: mokshitha
+2025-05-08 11:23:40,278 - __main__ - INFO - Attempting to create embeddings for 2 documents
+
+2025-05-08T05:53:41.003Z error: Chat process error: 2025-05-08 11:23:41,002 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:53:41.003Z error: Chat process error: 2025-05-08 11:23:41,002 - openai._base_client - INFO - Retrying request to /embeddings in 0.422530 seconds
+
+2025-05-08T05:53:42.028Z error: Chat process error: 2025-05-08 11:23:42,027 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:53:42.031Z error: Chat process error: 2025-05-08 11:23:42,029 - openai._base_client - INFO - Retrying request to /embeddings in 0.907985 seconds
+
+2025-05-08T05:53:43.458Z error: Chat process error: 2025-05-08 11:23:43,457 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:53:43.460Z error: Chat process error: 2025-05-08 11:23:43,458 - openai._base_client - INFO - Retrying request to /embeddings in 1.788210 seconds
+
+2025-05-08T05:53:45.608Z error: Chat process error: 2025-05-08 11:23:45,607 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:53:45.609Z error: Chat process error: 2025-05-08 11:23:45,608 - openai._base_client - INFO - Retrying request to /embeddings in 3.362855 seconds
+
+2025-05-08T05:53:49.500Z error: Chat process error: 2025-05-08 11:23:49,500 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:53:49.502Z error: Chat process error: 2025-05-08 11:23:49,501 - openai._base_client - INFO - Retrying request to /embeddings in 7.210905 seconds
+
+2025-05-08T05:53:57.485Z error: Chat process error: 2025-05-08 11:23:57,484 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+
+2025-05-08T05:53:57.488Z error: Chat process error: 2025-05-08 11:23:57,487 - __main__ - ERROR - Error creating embeddings: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+2025-05-08T05:53:57.489Z error: Chat process error: 2025-05-08 11:23:57,487 - __main__ - WARNING - Rate limit hit, waiting before retry...
+2025-05-08 11:23:57,488 - __main__ - ERROR - Failed to create vector store after retries: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body'
+
+2025-05-08T05:53:57.490Z info: Chat process output: {"type":"system","message":"Chat system is ready. You can ask questions about registered faces."}
+2025-05-08T05:53:57.491Z error: Chat process error: 2025-05-08 11:23:57,488 - __main__ - INFO - Using simple storage mode for 2 faces due to API limitations.
+

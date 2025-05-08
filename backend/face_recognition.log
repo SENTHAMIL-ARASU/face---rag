@@ -1,0 +1,37 @@
+2025-05-07 15:33:11,574 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612190304.jpg
+2025-05-07 15:33:11,747 - __main__ - INFO - Generating face encoding for Poorvika
+2025-05-07 15:33:12,010 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612190304_verified.jpg
+2025-05-07 15:38:52,560 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612531325.jpg
+2025-05-07 15:38:52,736 - __main__ - WARNING - No faces detected in C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612531325.jpg
+2025-05-07 15:39:14,978 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612553757.jpg
+2025-05-07 15:39:15,155 - __main__ - INFO - Generating face encoding for p
+2025-05-07 15:39:15,441 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746612553757_verified.jpg
+2025-05-07 19:19:09,874 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746625744750.jpg
+2025-05-07 19:19:10,558 - __main__ - INFO - Generating face encoding for Sleepy Poorvika
+2025-05-07 19:19:11,542 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746625744750_verified.jpg
+2025-05-07 19:29:13,518 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626352080.jpg
+2025-05-07 19:29:13,692 - __main__ - INFO - Generating face encoding for d
+2025-05-07 19:29:13,979 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626352080_verified.jpg
+2025-05-07 19:29:32,299 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626370860.jpg
+2025-05-07 19:29:32,478 - __main__ - WARNING - No faces detected in C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626370860.jpg
+2025-05-07 19:39:34,179 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626972653.jpg
+2025-05-07 19:39:34,342 - __main__ - WARNING - No faces detected in C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746626972653.jpg
+2025-05-07 20:09:44,148 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746628782633.jpg
+2025-05-07 20:09:44,323 - __main__ - WARNING - No faces detected in C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746628782633.jpg
+2025-05-07 21:42:27,556 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746634346056.jpg
+2025-05-07 21:42:27,790 - __main__ - WARNING - No faces detected in C:\Users\user\Desktop\GITHUB\.Kato\backend\Uploads\face_1746634346056.jpg
+2025-05-07 22:48:43,709 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746638321577.jpg
+2025-05-07 22:48:43,996 - __main__ - INFO - Generating face encoding for pichi
+2025-05-07 22:48:44,427 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746638321577_verified.jpg
+2025-05-08 09:53:11,858 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746678188792.jpg
+2025-05-08 09:53:12,343 - __main__ - INFO - Generating face encoding for trail
+2025-05-08 09:53:12,665 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746678188792_verified.jpg
+2025-05-08 10:32:48,144 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746680566699.jpg
+2025-05-08 10:32:48,332 - __main__ - INFO - Generating face encoding for trail 2
+2025-05-08 10:32:48,602 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746680566699_verified.jpg
+2025-05-08 11:18:10,064 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746683288468.jpg
+2025-05-08 11:18:10,245 - __main__ - INFO - Generating face encoding for C Poorvika Gowda
+2025-05-08 11:18:10,513 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746683288468_verified.jpg
+2025-05-08 11:19:07,565 - __main__ - INFO - Loading image from C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746683346152.jpg
+2025-05-08 11:19:07,748 - __main__ - INFO - Generating face encoding for mokshitha
+2025-05-08 11:19:08,032 - __main__ - INFO - Saved verification image to C:\Users\user\Desktop\GITHUB\.Kato\backend\uploads\face_1746683346152_verified.jpg
