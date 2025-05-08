@@ -138,7 +138,9 @@ pip install -r requirements.txt
 ---
 
 ## 🏗️ Architecture Diagram
-    ![Architecture Diagram](ArchitectureDiagram/ArchiDia.png)
+   
+    ![ArchitectureDiagram](ArchitectureDiagram/ArchiDia.png)
+
 ---
 
 ## 🎥 Demo Video
