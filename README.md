@@ -167,5 +167,5 @@ Includes:
 
 ## 🏁 Hackathon
 
-This project is a part of a hackathon run by [https://katomaran.com] **Katomaran Hackathon – May 2025**
+This project is a part of a hackathon run by [https://katomaran.com] 
 
