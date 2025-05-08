@@ -139,15 +139,6 @@ pip install -r requirements.txt
 
 ## 🏗️ Architecture Diagram
 
-The architecture diagram illustrates:
-
-- Frontend (React) interacts with backend via **HTTP** and **WebSocket**
-- Backend (Node.js) communicates with:
-  - Python modules for face recognition and RAG
-  - SQLite database for storing user data
-
-> 💡 Python scripts are spawned as child processes by Node.js when needed for encoding, recognition, or RAG responses.
-
 ---
 
 ## 🎥 Demo Video
@@ -158,7 +149,8 @@ Includes:
 - Performing real-time recognition
 - Querying details via the chat interface  
 ➡️ Walkthrough of the UI, live detection overlays, and sample chat Q&A
-     ![MainInterface](OutputVideo/22PD10_Katomaran_Hackathon.mp4)
+
+     [OutputVideo](OutputVideo/22PD10_Katomaran_Hackathon.mp4)
 ---
 
 ## 📋 Logging
