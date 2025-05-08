@@ -152,13 +152,13 @@ The architecture diagram illustrates:
 
 ## 🎥 Demo Video
 
-**Loom Video Demonstration:**  
+**Video Demonstration:**  
 Includes:
 - Registering a face
 - Performing real-time recognition
 - Querying details via the chat interface  
 ➡️ Walkthrough of the UI, live detection overlays, and sample chat Q&A
-
+     ![MainInterface](OutputVideo/22PD10_Katomaran_Hackathon.mp4)
 ---
 
 ## 📋 Logging
