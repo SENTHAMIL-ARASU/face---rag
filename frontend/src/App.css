@@ -1,0 +1,52 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background-color: #3d5b99 ; 
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.app-nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.nav-tab {
+  padding: 12px 24px;
+  margin: 0 10px; /* Increased margin for better spacing with new tab */
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  border-bottom: 3px solid transparent;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.nav-tab:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav-tab.active {
+  border-bottom: 3px solid #fff;
+}
+
+.app-main {
+  flex: 1;
+  padding: 20px;
+}
+
+.app-footer {
+  background-color: #f8f9fa;
+  padding: 15px;
+  text-align: center;
+  font-size: 0.8em;
+  color: #6c757d;
+}

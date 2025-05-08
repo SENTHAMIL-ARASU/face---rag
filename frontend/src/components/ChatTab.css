@@ -1,0 +1,114 @@
+.chat-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.chat-window {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 15px;
+  height: 400px;
+  overflow-y: auto;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+}
+
+.message {
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 4px;
+}
+
+.message.user {
+  background-color: #007bff;
+  color: white;
+  margin-left: 20%;
+  margin-right: 10px;
+}
+
+.message.bot {
+  background-color: #e9ecef;
+  margin-right: 20%;
+  margin-left: 10px;
+}
+
+.message.system {
+  background-color: #d1ecf1;
+  color: #0c5460;
+  text-align: center;
+  font-style: italic;
+}
+
+.message.error {
+  background-color: #f8d7da;
+  color: #721c24;
+  text-align: center;
+}
+
+.user-label, .bot-label, .system-label, .error-label {
+  font-weight: 600;
+}
+
+.input-container {
+  display: flex;
+  gap: 10px;
+}
+
+.chat-input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.send-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+.send-button:hover {
+  background-color: #0056b3;
+}
+
+.status-indicator {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 20px;
+  font-size: 0.9rem;
+}
+
+.status-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.status-dot.connected {
+  background-color: #28a745;
+}
+
+.status-dot.disconnected {
+  background-color: #6c757d;
+}
+
+.status-dot.error {
+  background-color: #dc3545;
+}
+
+.error-message {
+  background-color: #f8d7da;
+  border-left: 4px solid #dc3545;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 0 4px 4px 0;
+}
