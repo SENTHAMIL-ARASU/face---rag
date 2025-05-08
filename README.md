@@ -1,7 +1,3 @@
-# 22PD10_Katomaran2025
-Face Recognition Platform with Real-Time AI Q&A using RAG
-
-
 # Face Recognition Platform with Real-Time AI Q&A
 
 This repository contains a **browser-based face recognition platform** developed for the **Katomaran Hackathon, May 2025**.  
