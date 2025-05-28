@@ -45,6 +45,7 @@ The platform enables users to:
 
 ---
 
+<<<<<<< HEAD
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
@@ -52,6 +53,8 @@ The platform enables users to:
 ```bash
 
 ```
+=======
+>>>>>>> 4fa4de24345867e7445b00aab122da9bfa8d1673
 
 ### 2. Backend Setup (Node.js)
 
@@ -152,7 +155,7 @@ Includes:
 - Querying details via the chat interface  
 ➡️ Walkthrough of the UI, live detection overlays, and sample chat Q&A
 
-     [OutputVideo](OutputVideo/22PD10_Katomaran_Hackathon.mp4)
+     [OutputVideo] 
 ---
 
 ## 📋 Logging
