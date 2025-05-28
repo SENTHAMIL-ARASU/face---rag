@@ -50,8 +50,7 @@ The platform enables users to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/PoorvikaGowda23/22PD10_Katomaran2025.git
-cd 22PD10_Katomaran2025
+
 ```
 
 ### 2. Backend Setup (Node.js)
