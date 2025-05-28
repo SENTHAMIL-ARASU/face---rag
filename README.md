@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # Face Recognition Platform with Real-Time AI Q&A
 
 This repository contains a **browser-based face recognition platform** developed for the **Katomaran Hackathon, May 2025**.  
@@ -166,6 +166,6 @@ Includes:
 - Timestamps, levels (info/warn/error), and debug messages included.
 
 ---
-=======
+
 # face---rag
->>>>>>> be7958dd7422bbb458682e0b66984f043146f7b2
+ be7958dd7422bbb458682e0b66984f043146f7b2
