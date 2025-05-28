@@ -145,7 +145,7 @@ Includes:
 - Querying details via the chat interface  
 ➡️ Walkthrough of the UI, live detection overlays, and sample chat Q&A
 
-     [OutputVideo](OutputVideo/22PD10_Katomaran_Hackathon.mp4)
+     [OutputVideo] 
 ---
 
 ## 📋 Logging
